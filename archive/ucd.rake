@@ -260,7 +260,7 @@ namespace :tw do
           # SuperfamFK
           # SortOrder
           path = @args[:data_directory] + 'FGNAMES.txt'
-          raise "file #{path} not found" if not File.exists?(path)
+          raise "file #{path} not found" if not File.exist?(path)
           file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
           i = 0
 
@@ -305,7 +305,7 @@ namespace :tw do
           
           path = @args[:data_directory] + 'KEYWORDS.txt'
 
-          raise "file #{path} not found" if not File.exists?(path)
+          raise "file #{path} not found" if not File.exist?(path)
           file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
 
           file.each_with_index do |row, i|
@@ -346,7 +346,7 @@ namespace :tw do
         # CitDate
         path = @args[:data_directory] + 'MASTER.txt'
         print 'Handling MASTER -- Families '
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         i = 0
 
@@ -431,7 +431,7 @@ namespace :tw do
       def handle_master_ucd_valid_genera
         path = @args[:data_directory] + 'MASTER.txt'
         print "\nHandling MASTER -- Valid genera\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         i = 0
 
@@ -484,7 +484,7 @@ namespace :tw do
       def handle_master_ucd_invalid_genera
         path = @args[:data_directory] + 'MASTER.txt'
         print "\nHandling MASTER -- Invalid genera\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         i = 0
         file.each do |row|
@@ -552,7 +552,7 @@ namespace :tw do
       def handle_master_ucd_invalid_genera1
         path = @args[:data_directory] + 'MASTER.txt'
         print "\nHandling MASTER -- Invalid genera\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         i = 0
         file.each do |row|
@@ -621,7 +621,7 @@ namespace :tw do
       def handle_master_ucd_invalid_genera2
         path = @args[:data_directory] + 'MASTER.txt'
         print "\nHandling MASTER -- Invalid genera\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         i = 0
         file.each do |row|
@@ -688,7 +688,7 @@ namespace :tw do
       def handle_master_ucd_invalid_subgenera
         path = @args[:data_directory] + 'MASTER.txt'
         print "\nHandling MASTER -- Invalid subgenera\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         i = 0
         file.each do |row|
@@ -767,7 +767,7 @@ namespace :tw do
       def handle_master_ucd_invalid_subgenera1
         path = @args[:data_directory] + 'MASTER.txt'
         print "\nHandling MASTER -- Invalid subgenera\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         i = 0
         file.each do |row|
@@ -845,7 +845,7 @@ namespace :tw do
       def handle_master_ucd_valid_species
         path = @args[:data_directory] + 'MASTER.txt'
         print "\nHandling MASTER -- Valid species\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         i = 0
         file.each do |row|
@@ -925,7 +925,7 @@ namespace :tw do
       def handle_master_ucd_invalid_species
         path = @args[:data_directory] + 'MASTER.txt'
         print "\nHandling MASTER -- Invalid species\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         i = 0
         file.each do |row|
@@ -1021,7 +1021,7 @@ namespace :tw do
       def handle_master_ucd_invalid_subspecies
         path = @args[:data_directory] + 'MASTER.txt'
         print "\nHandling MASTER -- Invalid subspecies\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         i = 0
         file.each do |row|
@@ -1131,7 +1131,7 @@ namespace :tw do
           }
           path = @args[:data_directory] + 'LANGUAGE.txt'
 
-          raise "file #{path} not found" if not File.exists?(path)
+          raise "file #{path} not found" if not File.exist?(path)
           file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
           file.each_with_index do |row, i|
             print "\r#{i}"
@@ -1161,7 +1161,7 @@ namespace :tw do
           puts ' as new'
           path = @args[:data_directory] + 'COUNTRY_MOD.txt'
 
-          raise "file #{path} not found" if not File.exists?(path)
+          raise "file #{path} not found" if not File.exist?(path)
           file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
           file.each_with_index do |row, i|
             next if row['GeographicAreaID'].blank? || (row['GeographicAreaID'] =~ /'no match'/) || row['Country'].blank?
@@ -1184,7 +1184,7 @@ namespace :tw do
           puts 'as new'
           path = @args[:data_directory] + 'COLL.txt'
 
-          raise "file #{path} not found" if not File.exists?(path)
+          raise "file #{path} not found" if not File.exist?(path)
           file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
           file.each_with_index do |row, i|
             print "\r#{i}"
@@ -1206,7 +1206,7 @@ namespace :tw do
           puts 'as new'
           path = @args[:data_directory] + 'RELIABLE.txt'
 
-          raise "file #{path} not found" if not File.exists?(path)
+          raise "file #{path} not found" if not File.exist?(path)
           file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
           file.each_with_index do |row, i|
             print "\r#{i}"
@@ -1235,7 +1235,7 @@ namespace :tw do
 
           path = @args[:data_directory] + 'P-TYPE.txt'
 
-          raise "file #{path} not found" if not File.exists?(path)
+          raise "file #{path} not found" if not File.exist?(path)
           file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
           file.each_with_index do |row, i|
             print "\r#{i}"
@@ -1283,8 +1283,8 @@ namespace :tw do
         path1 = @args[:data_directory] + 'REFS.txt'
         path2 = @args[:data_directory] + 'REFEXT.txt'
         print "\nHandling References\n"
-        raise "file #{path1} not found" if not File.exists?(path1)
-        raise "file #{path2} not found" if not File.exists?(path2)
+        raise "file #{path1} not found" if not File.exist?(path1)
+        raise "file #{path2} not found" if not File.exist?(path2)
         file1 = CSV.foreach(path1, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         file2 = CSV.foreach(path2, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
 
@@ -1422,7 +1422,7 @@ namespace :tw do
       def species_codes_ucd
         path = @args[:data_directory] + 'SPECIES.txt'
         print "\nHandling Species Codes\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         file.each_with_index do |row, i|
           print "\r#{i}"
@@ -1433,7 +1433,7 @@ namespace :tw do
       def genus_codes_ucd
         path = @args[:data_directory] + 'GENUS.txt'
         print "\nHandling Genus Codes\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         file.each_with_index do |row, i|
           print "\r#{i}"
@@ -1490,7 +1490,7 @@ namespace :tw do
 
         path = @args[:data_directory] + 'TSTAT.txt'
         print "\nHandling TSTAT - combinations\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         file.each_with_index do |row, i|
           print "\r#{i}"
@@ -1502,7 +1502,7 @@ namespace :tw do
       def handle_family_ucd
         path = @args[:data_directory] + 'FAMTRIB.txt'
         print "\nHandling FAMTRIB\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
 
         keywords = {
@@ -1547,7 +1547,7 @@ namespace :tw do
       def handle_genus_ucd
         path = @args[:data_directory] + 'GENUS.txt'
         print "\nHandling GENUS\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
 
         type_type = {
@@ -1616,7 +1616,7 @@ namespace :tw do
       def handle_species_ucd
         path = @args[:data_directory] + 'SPECIES.txt'
         print "\nHandling SPECIES\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
 
         keywords = {
@@ -1707,7 +1707,7 @@ namespace :tw do
 
         path = @args[:data_directory] + 'H-FAM.txt'
         print "\nHandling H-FAM\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         plantae = Protonym.find_or_create_by!(name: 'Plantae', rank_class: Ranks.lookup(:icn, 'kingdom'), parent: @root, project_id: Current.project_id)
 
@@ -1776,7 +1776,7 @@ namespace :tw do
       def handle_hostfam_ucd
         path = @args[:data_directory] + 'HOSTFAM.txt'
         print "\nHandling HOSTFAM\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         file.each_with_index do |row, i|
           print "\r#{i}"
@@ -1874,7 +1874,7 @@ namespace :tw do
 
         path = @args[:data_directory] + 'HOSTS.txt'
         print "\nHandling HOSTS\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         i = 0
 
@@ -1917,7 +1917,7 @@ namespace :tw do
         unresolved = {}
         path = @args[:data_directory] + 'DIST.txt'
         print "\nHandling DIST \n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
 
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
 
@@ -1979,7 +1979,7 @@ namespace :tw do
       def handle_hknew_ucd
         path = @args[:data_directory] + 'HKNEW.txt'
         print "\nHandling HKNEW\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
 
@@ -2188,7 +2188,7 @@ namespace :tw do
 
         path = @args[:data_directory] + 'TSTAT.txt'
         print "\nHandling TSTAT\n"
-        raise "file #{path} not found" if not File.exists?(path)
+        raise "file #{path} not found" if not File.exist?(path)
         file = CSV.foreach(path, col_sep: "\t", headers: true, encoding: 'iso-8859-1:UTF-8')
         i = 0
         file.each do |row|

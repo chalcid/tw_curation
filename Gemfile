@@ -8,7 +8,7 @@ ruby '3.2.1'
 gem 'require_all'
 
 if ENV['TW_PATH'] && (ENV['TW_PATH'].length != 0)
-  if !Dir.exists?(ENV['TW_PATH']) 
+  if !Dir.exist?(ENV['TW_PATH']) 
     puts "Can not find" + ENV['TW_PATH']
   else
     eval_gemfile(ENV['TW_PATH'] + '/Gemfile')

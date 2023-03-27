@@ -7,7 +7,7 @@ Rake.add_rakelib './tasks'
 
 if p = ENV['TW_PATH']
   a = File.join(p, '/config/environment')
-  if true # Dir.exists?(a)
+  if true # Dir.exist?(a)
     puts Rainbow("TaxonWorks found at #{a}").green
     require_relative a
     true
