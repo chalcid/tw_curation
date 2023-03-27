@@ -5,9 +5,10 @@ namespace :ucd do
 
   desc 'set the project id'
   task :curation do
-    Current.project_id = 16 # sixteen
+    project_id = ENV['PROJECT_ID_OVERRIDE'] || 16 # sixteen
+    Current.project_id = project_id
     Current.user_id = 1 # matt
-    raise if Current.project_id != 16 
+    raise if Current.project_id != project_id
   end
 
   # https://github.com/chalcid/jncdb/issues/18
