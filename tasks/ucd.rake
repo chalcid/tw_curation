@@ -1,5 +1,5 @@
 require 'fileutils'
-require 'awesome_print'
+require 'amazing_print'
 
 namespace :ucd do
 
@@ -7,7 +7,6 @@ namespace :ucd do
   task :curation do
     Current.project_id = 16 # sixteen
     Current.user_id = 1 # matt
-
     raise if Current.project_id != 16 
   end
 
@@ -122,11 +121,97 @@ namespace :ucd do
   end
 
   task cleanup_host_based_otus: [:data_directory, :environment, :user_id, :project_id ] do
+    # Identify some group of names to inspect 
+    #   - eliminate having to inspect everything!
+    #
+    # 1- Species or genus group names
+    #
+    # 2- Missing author or year
+    #
+    # Loop that group of names
+    # has soft_validation X?
 
+    # Missing relationship: Aphelinus varipes Förster should be a secondary homonym or duplicate of Aphelinus varipes (Förster, 1841)
+    # Missing relationship: Original genus is not selected 
+    #
+    #
+    #
+    # Second step
+    #
+    # Merging
   end
 
-  task cleanup_geographic_area_based_otus: [:curation ] do
-    a = Otu.joins(:asserted_distribution).where('otus.project_id = ?', Current.project_id)
+  desc 'cleanup geographic area based otus'
+  task cleanup_geographic_area_based_otus: [ :curation ] do
+    a = Otu.with_biological_associations.where('otus.project_id = ?', Current.project_id)
+    puts a.count
+
+    a.each do |o|
+      p = otu_only_taxon_name(o.taxon_name_id)
+      if p.empty?
+
+
+        if TaxonName.where(cached: o.taxon_name.cached).where.not(id: o.taxon_name_id).any?
+          puts "#{o.taxon_name.cached}            \r"
+          puts Rainbow("yes").purple
+        end
+
+      else
+       #  puts o # "no"
+      end
+ 
+    # puts
+    # puts '---'
+
+    end
+    
+  end
+
+  def otu_only_taxon_name(taxon_name_id)
+    return false if taxon_name_id.nil?
+    t = TaxonName.find(taxon_name_id)
+
+    has = []
+    if !t.cached_author_year.blank?
+      has.push :author 
+      return has
+    end
+
+    if !t.year_of_publication.blank?
+      has.push :year 
+      return has
+    end
+    
+    if t.children.any?
+      has.push :children 
+      return has
+    end
+
+    if t.tags.any?
+      has.push :tags
+      return has
+    end
+    
+    if t.data_attributes.any?
+      has.push :data_attributes 
+      return has
+    end
+
+    if t.citations.any?
+      has.push :citations
+      return has
+    end
+
+#   self.class.reflect_on_all_associations(:has_many).each do |r|
+#     next if exclude.include?(r.name)
+#     return true if self.send(r.name).count(:all) > 0
+#   end
+
+#   self.class.reflect_on_all_associations(:has_one).each do |r|
+#     return true if self.send(r.name).count(:all) > 0
+#   end
+
+    has
   end
 
   desc 'prepare pdfs'
@@ -257,7 +342,7 @@ namespace :ucd do
         t.save!
         b = b - 1
         t.reload
-        if t.cached_html =~ /\</ || t.cached_original_combination_html =~ /\</
+        if t.cached =~ /\</ || t.cached_original_combination =~ /\</
           errors.push "#{t.id} #{t.name} #{t.cached_html}"
         end
 
@@ -269,6 +354,62 @@ namespace :ucd do
 
     puts
     puts errors.collect{|a| "* [ ] #{a}"}.join("\n")
+  end
+
+  # This task is idempotent.
+  desc 'Ressurect ghoul family group names that are synonyms by replacing name with verbatim_name'
+  task resurrect_ghoul_family_group_names: [:curation] do
+
+    # For all family-group names that are synonyms (could also check valid ids, but this is data, not cached check
+    unknown_relationship = 'TaxonNameRelationship::Iczn::Invalidating%'
+
+    base = Protonym.where(project_id: Current.project_id)
+
+    family_synonyms = base.joins(:taxon_name_relationships)
+      .where("verbatim_name IS NOT NULL AND rank_class ILIKE '%family%'")
+      .where("taxon_name_relationships.type ILIKE ?",  unknown_relationship)
+
+    puts 'Processing these names: '
+    puts %w{id verbatim_name name rank parent_name parent_rank valid_taxon_name valid_taxon_rank}.join("\t")
+    puts family_synonyms.collect{|n| [n.id, n.verbatim_name, n.name, n.rank_name,  n.parent.name, n.parent.rank_name, n.valid_taxon_name.name, n.valid_taxon_name.rank_name].join("\t")}.join("\n")
+    puts family_synonyms.count
+
+    duplicates = []
+    failures = []
+
+    puts 
+
+    family_synonyms.each do |n|
+      n.name = n.verbatim_name
+      n.verbatim_name = nil
+    
+      begin 
+        n.save!
+      rescue ActiveRecord::RecordInvalid
+        failures.push [n.id, n.cached]
+      end
+
+      d = base.where(name: n.verbatim_name)
+      if d.count > 0
+        duplicates.push d.collect{|z| [z.id, z.name]}
+      end
+    end
+
+    if duplicates.present?
+      puts 'duplicates:'
+      puts duplicates
+    else
+      puts 'No duplicates detected.'
+    end
+
+    if failures.present?
+      puts 'Failed saves:'
+      puts failures.collect{|f| f.join("\t")}.join("\n")
+    else
+      puts 'No failed saves.'
+    end
+
+    puts "Done."
   end
 
 end

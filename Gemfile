@@ -1,4 +1,4 @@
-ruby '2.6.5'
+ruby '3.2.1'
 
 # Coming from TW
 # gem 'rake'
