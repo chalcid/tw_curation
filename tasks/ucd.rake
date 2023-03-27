@@ -412,4 +412,60 @@ namespace :ucd do
     puts "Done."
   end
 
+  # This task is idempotent.
+  # Databases have two paradigms for storing the spelling of names. Most older
+  # forms record the current form, and link to the original.  TaxonWorks does the opposite,
+  # we record the original (Protonym) and link to alternate spelling/valid form.
+  # This task reflects this difference, converting UCD names that were current to their original form.
+  # Practically speaking this alters very little in the UI because the rednering of our names already
+  # handles these nuances, it does however improve the precision/clarity of the data.
+  desc 'Convert current species names to their original form when provided in verbatim' 
+  task update_species_names_with_verbatim_and_legal_original_spellings: [:curation] do
+
+    # unknown_relationship = 'TaxonNameRelationship::Iczn::Invalidating%'
+
+    base = Protonym.where(project_id: Current.project_id)
+    species_verbatim = base.where("verbatim_name IS NOT NULL AND NOT rank_class ILIKE '%FAMILY%'")
+   
+    puts "Considering: (#{species_verbatim.count})" 
+    puts species_verbatim.collect{|n|
+      [n.id, n.verbatim_name, n.name, n.rank_name,  n.parent.name, n.parent.rank_name, n.valid_taxon_name.name, n.valid_taxon_name.rank_name].join("\t")}.join("\n")
+
+    processed = [] # Both forms of the name are detected in the three predicted forms of the name
+    not_processed = []
+    errored = []
+
+    species_verbatim.each do |n|
+      forms = n.predict_three_forms.values
+      if forms.include?(n.name) && forms.include?(n.verbatim_name)
+       begin 
+         n.name = n.verbatim_name
+         n.verbatim_name = nil
+         n.save! 
+         processed.push n.id  
+       rescue ActiveRecord::RecordInvalid
+         errored.push n.id 
+       end
+      else
+        not_processed.push(n.id)
+      end
+    end
+
+    puts
+
+    puts "Processed: "
+    puts processed.join("\n")
+    puts
+   
+    puts "Not processed: "
+    puts not_processed.join("\n")
+    puts
+
+    puts "Errored: "
+    puts errored.join("\n")
+    puts
+
+  end
+
+
 end
