@@ -302,7 +302,7 @@ namespace :taxonworks do
       puts errors.join("\n* [ ] ")
     end
 
-    task cleanup_host_based_otus: [:data_directory, :environment, :user_id, :project_id ] do
+    task :cleanup_host_based_otus do
       # Identify some group of names to inspect
       #   - eliminate having to inspect everything!
       #
