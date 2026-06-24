@@ -1,359 +1,345 @@
-coden	coll_name	repository_id	repository_name	notes	missing	count
-ADCO	Donev Collection, University of Plovdiv 'P. Hildenarski', Bulgaria				1	7
-AEI	American Entomological Institute, Gainesville, Florida, USA	4293	American Entomological Institute			70
-AICF	Fusu Collection, Faculty of Biology, Alexandru Ioan Cuzu University, Iasi, Romania	7262	Alexandru Ioan Cuza University of Iasi, Romania, Lucian Fusu personal collection			13
-AICU	Departmemnt of Biology, "Alexandru Ioan Cuza" University of Iasi, Iasi, Romania			not 7262	1	1
-AMNH	American Museum of Natural History, New York, USA	4180	American Museum of Natural History			39
-ANCO	Andriescu Collection, Romania					3
-ANIC	Australian National Insect Collection, Canberra, Australia	18	Australian National Insect Collection			288
-ANSP	Academy of Natural Sciences of Philadelphia, Pennsylvania, USA	4204	Academy of Natural Sciences of Philadelphia			51
-AUET	Deptartment of Plant Protection, Ataturk University, Erzurum, Turkey	27	Bernice P. Bishop Museum, Honolulu, Hawaii, USA			2
-AUTG	Institute of Entomology, Agricultural University of Georgia, Agmashenebeli alley 13km, Tbilisi, Georgia					6
-AUSM	Australian Museum, Sydney, New South Wales, Australia					4
-BAUC	Beijing Agricultural University, Beijing 100094, China					2
-BCRI	Biochemical and Biological Research Institute, Rydalmere, Sydney, Australia					2
-BECO	Becker Collection, Universidade Federal de Rio Grande do Sul, Porto Alegre, Brazil					1
-BGMS	Instituto de Ciencias Biológicas, Universidade Federal de Minas Gerais, CP2486, CEP 30000, Belo Horizonte, Minas Gerais, Brazil					8
-BMNH	The Natural History Museum, London SW7 5BD, England	7136	Natural History Museum (formerly British Museum (Natural History)), London, UK			5407
-BOCA	Bonomi-Cazzuoli Collection, Via Imperiale 622, San Felice sul Panaro, Modena, Italy					1
-BOCO	Boucek Collection, England					4
-BPBM	Bernice Pauahi Bishop Museum, Honolulu, Hawaii					198
-BRNG	Biologische Reichs. für Land- und Forstwirtschaft, Naumburg, Germany					1
-BUCI	Bharathiar University, Coimbatore, India					4
-CAFB	Chinese Academy of Forestry, Beijing 100091, China	3676	Northern Forestry Centre, Canadian Forest Service			70
-CAS	California Academy of Sciences, San Francisco, California, USA	326	California Academy of Sciences, San Francisco, California			57
-CBGP	INRA-CIRAD-IRD-Supagro Collection, Campus International de Baillarguet, CS 30016, F-34988, Montferrier-sur-Lez, France			probably 326		22
-CDFA	California Department of Food and Agriculture, Sacramento, California, USA	7965	California Department of Food and Agriculture, Sacramento			1
-CHPC	Christer Hansson Collection, Department of Zoology, University of Lund, Gelgonavägen 3, SE-223 62 Lund, Sweden			not 7670 Curt Harden Personal Collection		4
-CIBE	Colección de Insectos Benéficos Entomófagos, Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo Léon, Nuevo Léon, México					1
-CIIU	Centro de Int. y Cria de Ins. Utiles, Peru					1
-CIRA	CIRAD, Montpellier, France					12
-CMNH	Carnegie Museum of Natural History, Pittsburgh, Pennsylvania 15213, USA			probably 7084		1
-CNC	Canadian National Collection, Ottawa, Canada	5488	Canadian National Collection of Insects			625
-CNEP	Collection of Natural Enemies of Pests, Hubei University, Wuhan, Hubei 430062, China					10
-CNHM	Cracow Natural History Museum, Cracow, Poland					2
-CNMS	National Museum, Colombo, Sri Lanka	6063	Colombo National Museum			3
-CPT	Fundación Conjunto Paleontológicode Teruel-Dinópolis, Teruel, Spain	7630	The Fundación Conjunto Paleontológico de Teruel-Dinópolis, Teruel, Spain			2
-CUTT	Plant Protection Department, Cumhuriyet Universitesi, Tokat Ziraat Fakültesi, Tokat, Turkey					9
-CZMA	Caleçao Zoológica do Maranhao, Caxias, Maranhao, Brazil	7099	Coleção de Zoologia do Maranhão, Universidade Estadual do Maranhão, Caxias, MA, Brazil			1
-DACO	D.C. Darling Collection, Canada					3
-DAFZ	University of Helsinki, Finland	284	University of Helsinki - FBCC			9
-DAGU	Museum of Plant Protection Department, Agriculture Faculty, Gaziosmanpasa University, Tokat 60250, Turkey					1
-DBCU	Department of Biology, Faculty of Science and Art, Cumhuriyet University, 58140 Sivas, Turkey					1
-DCBU	Department of Ecology, Biology and Evolution, Universidade Federal de Sao Carlos, Sao Paulo, Brazil	4765	Universidade Federal de Sao Carlos			4
-DEAP	Department of Agriculture, Perth, Western Australia, Australia					23
-DECU	Department of Entomology, Cornell University, Ithaca, New York, USA					16
-DOCO	Domenichini collection, Istituto di Entomologia, Piacenza, Italy					1
-INIC	Instituto Nacional de Investigaciones de la Caña de Azucar de Cuba, La Habana, Cuba					2
-DEI	Deutsches Entomologisches Institut, Eberswalde, Germany	4660	Senckenberg Deutsches Entomologisches Institut			97
-dest	Type destroyed					12
-DEZP	Deptartimento di Entomologia e Zoologia Agraria, Università di Napoli, Portici, Italy					158
-DJRF	B. Vasantharaj David Coll., Jai Research Foundation, Valvada, Gujarat, India					4
-DPII	Department of Primary Industry, Indooroopilly, Queensland, Australia					0
-DPIK	Department of Primary Industry, Konedobu, Papua New Guinea					1
-DPIQ	Department of Primary Industry, Toowoomba, Queensland, Australia					2
-DPPZ	Department of Plant Protection, School of Agriculture and Food Science, Zhejiang Agriculture & Forestry University, Lin'an, Zhejiang 311300, China	7554	Department of Plant Protection, University of Zabol, Iran			3
-DSIR	New Zealand Arthropod Collection, Landcare Research, Auckland, New Zealand	4978	Department of Scientific and Industrial Research			94
-DZPU	Department of Zoology, Panjab University, Chandigarh 160 014, Punjab, India					3
-DZUC	Department of Zoology, University of Calicut, Kerala, India	5987	Departamento de Zoologia da Universidade de Coimbra			187
-DZUH	Department of Zoology, University of Havana, La Habana (Havana), Cuba	6799	Departamento de Zoologia, Universidad de Havana			3
-DZUP	Department of Zoology, University of Plovdiv 'Paisii Hilenarski', 4000 - Plovdiv, Bulgaria			not Brazil	1	4
-EALQ	Escola Superior Agricoltura Luiz de Queiroz, Piraciciba, Brazil					16
-EAPZ	Escuela Agricola Panamericana Zamorano, Tegucigalpa, Honduras	5671	Escuela Agricola Panamericana			1
-EBRC	Insect Collection of Entomology and Biocontrol Research Centre, Ilia State University, Tbilisi, Georgia					23
-EDMU	Entomology Department, Michigan State University, East Lansing, Michigan, USA					1
-EDAU	Parasitoid Taxonomy and Biocontrol Laboratory, Entomology Department, Annamalai University, Chidambaram, Tamil Nadi 608002, India	7113	Entomology Department, Annamali University, Chidambaram, India			59
-ERMJ	Eternal River Museum of Natural History, Amman, Jordan	7631	Eternal River Museum of Natural History, Amman, Jordan			1
-EDUA	Entomology Department, University of Amsterdam, Netherlands					2
-ELUM	Art and Sciece Faculty, Entomology Laboratory, University of Mugla, 48170 Kötekli/Mugla, Turkey					1
-EIHU	Entomological Laboratory, Hokkaido University, Japan	4174	Entomological Institute, Hokkaido University			125
-ETHZ	Entomologisches Institute der E.T.H., Zurich, Switzerland	6294	Eidgenoessische Technische Hochschule-Zentrum			57
-ELEU	Entomology Laboratory, Ehime University, Japan					34
-ELNJ	Entomology Laboratory, Faculty of Agriculture, Meijo University, Nagoya, Japan					10
-EMEB	Essig Museum of Entomology, University of California, Berkeley, California, USA					12
-ENAR	Escola Nacional da Agronomia, Rio de Janeiro, Brazil	7198	Departamento de Entomologia, Universidade Federal Rural do Rio de Janeiro, Brazil			3
-EPNC	Escuela Polytécnica Nacional Collection, Quito, Ecuador	7033	Escuela Politécnica Nacional, Quito, Ecuador			6
-ESCB	Entomology Services of California, Berkeley, California, USA					0
-FAAU	Department of Economic Entomology, Faculty of Agriculture, Alexandria University, Egypt					3
-FACC	Biological Control Institute, Fujian Agriculture and Forestry University, Fuzhou 350002, Fujian, China					201
-FAHU	Faculty of Agriculture, Hebrew University, Rehovot, Israel					1
-FBUB	Facultad de Biologia, Universidad Barcelona, Spain	5796	Universitat Bielefeld			1
-FFRI	Finnish Forest Research Institute, Helsinki, Finland					1
-FIUB	Forstzoologisches Institut der Universität fur Bodenkultur, 1180 Wien, Gregor Mendel-Strasse 33, Austria					1
-FML	Fundación e Instituto Miguel Lillo, San Miguel de Tucumán, Argentina	4701	Fundacion Miguel Lillo			27
-FRCS	Forest Research Center Kuching (FKSM), Forest Department Sarawak, Km 10, Jalan Penrissen, 93250 Kuching, Sarawak, Malaysia	5500	Forest Research Centre			1
-FRID	Forest Research Institute, P.O. New Forest, Dehra Dun, Uttarakhand, 248 006, India	7087	Forest Research Institute, Dehra Dun, Uttarakhand, 248 006, India			72
-FRIM	Forest Research Institute, Kepon, Malaysia	5628	Forest Research Institute, Malaysia			3
-FSCA	Florida State Collection of Arthropods, DPI, Gainesville, Florida, USA	7122	Florida State Collection of Arthropods			6
-FSIK	Forest Science Institute, Kostalec, Czech Republic					4
-FUSA	Faculté universitaire des Sciences agronomiques, Unité de Zoologie générale et appliquée, B.-5030 Gembloux, Belgium					1
-CAGW	Forest Entomology Section, Central Agricultural College, Warsaw, Poland					0
-GBPU	Department of Entomology, G.B. Pant University of Agriculture & Technology, Pantnagar 263 145, Uttarakhand, India					19
-GCOL	Gijswijt Collection, Netherlands					2
-GDCO	G. Domenichini Collection, Piacenza, Italy					3
-GEIG	Guangdong Entoimological Institute, Guangzhou, China					14
-GRCO	Santin Gravena collection, Facultad de Ciencias Agrarias y Veterinarias de Jaboticabal, Brazil					0
-HACO	Hayat Collection, Aligarh, India					4
-HAUZ	Department of Plant Protection, Henan Agricultural University, Zhengzhou 450002, China					17
-HC	Hedqvist Collection, Sweden			not in	1	50
-HCCO	H. Cam Collection, Gaziosmanpasa Universitesi, 60100 Tokat, Turkey					1
-HDOU	Hope Department, Oxford University, Oxford, England					316
-HMIM	Hayik Mirzayans Insect Museum, Iranian Research Institute of Plant Protection, P.O. Box 1454, Tehran 19395, Iran	7156	Hayk Mirzayans Insect Museum, Insect Taxonomy Research Department, Plant Pests and Diseases Research Institute, Tehran, Iran	good match		6
-HNHM	Hungarian Natural History Museum, Budapest, Hungary	4871	Hungarian Natural History Museum , Budapest, Hungary (Termeszettudomanyi Muzeum)			560
-HOCO	Hoffmeyer Collection, Denmark					1
-HSPA	Hawaiian Sugar Planters' Association, Honolulu, Hawaii					3
-IACB	Instituto Agronomico de Campinas, Brazil					0
-IAEE	Institute of Applied Ecology & Ecotechnology, University of Agriculture, Prague, Czech Republic					10
-IAES	Imperial Agricultural Experiment Station, Japan					1
-IARI	Indian Agricultural Research Institute, Delhi, India	336	Entomology Division of the Indian Agriculture Research Institute, New Delhi, India			334
-IASS	Institute of Agricultural Science, Suweon, South Korea					1
-IAUI	Department of Entomology, Islamic Azad University, Tehran, Iran					1
-IAUT	Department of Agriculture, Shahre Rey Islamic Azad University, Tehran, Iran					5
-IAVH	Instituto Alexander von Humboldt, Bogotá, Colombia	5219	Instituto de Ivestigacion de los Recursos Biologicos Alexander von Humboldt			2
-IBER	Institute of Biodiversity and Ecosystem Research, Sofia, Bulgaria	7255	Institute of Biodiversity and Ecosystem Research, Sofia, Bulgaria			2
-IBUS	Instituto de Biologia, Universidade Federal Rural do Rio de Janeiro, Seropédica, Brazil.	4725	Universidade Federal do Rio de Janeiro			1
-ICBB	Instituto de Ciencias Biológicas, Universidade Federal de Minas Gerais, CP2486, CEP30000, Bello Horizonte, Minas Gerais, Brazil	4220	ICBB Culture Collection for Microorganisms and Cell Culture			4
-ICGU	Insect Collection, Department of Plant Protection, College of Agriculture, Guangxi University, Nanning 530004, China					1
-ICNC	Instituto de Ciencias Naturales, Universidad Nacional de Colombia, A.A. 7495 Bogotá, Colombia					2
-IEAU	Istituto Entomologia y Agraria, Università di Palermo, Palermo, Italy	6051	Istituto di Entomologia Agraria dell'Universita			1
-IEGB	Istituto di Entomologia 'Giudo Grandi', Bologna, Italy					10
-IFUG	Institut für Forstzoologie der Universität Göttingen, Münden, Germany					2
-IIAF	Instituto de Investigaciones Agropecuarias y Forestales, Universidad Michoacana de San Nicolás de Hidalgo, Tarimbaro, Michoacán 58880, México					1
-IIRB	Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Villa de Leyva, Colombia					28
-IMYT	Insect Museum, Biological Control Research Station, Yüregir, Adana, Turkey	7265	Insect Museum, Biological Control Research Station, Yüregir, Adana, Turkey			87
-INBC	Instituto National de Biodiversidad, Santo Domingo, Heredia, Costa Rica	5114	Instituto Nacional de Biodiversidad (INBio)			602
-INHM	Iraq Natural History Museum, University of Baghdad, Baghdad, Iraq	6048	Iraq Natural History Museum, Baghdad, Iraq			3
-INHS	Illinois Natural History Survey, Urbana, Illinois, USA	3967	Illinois Natural History Survey			67
-INIA	Crop Protection Department, INIA, Cordoba, Spain	4556	Instituto Nacional de Investigacion y Tecnologia Agraria y Alimentaria	there are 2, both seem OK		1
-INPA	Museum of the National Institute for Research in the Amazon, Manaus, Brasil	3921	Instituto Nacional de Pesquisas da Amazonia	dupes exist, but OK		10
-INRA	Station Zoo. & Biocontrol, INRA, Antibes, France	4474	Institut National de la Recherche Agronomique			13
-INRM	INRA, Centre de Biologie et de Gestion des Populations, Campus international de Baillarguet, CS 30 016, 34988 Montferrier-sur-Lez, France					4
-INTA	Instituto National Tecnología Agropecuaria, Buenos Aires, Argentina					0
-INTT	Institito Nacional de Tecnología, Tucumán, Argentina					1
-IOCR	Instituto Oswaldo Cruz, Rio de Janeiro, Brazil					1
-IPSF	Institute für Pflanzenschutzforschung, Eberswalde, Germany					1
-IPSP	Istituto per la Protezione Sostenibile dell Plante, Consiglio Nazionale delle Ricerche, SS di Portici, Napoli, Italy					2
-IRCW	University of Wisconsin, Madison, Wisconsin, USA	5791	Madison, University of Wisconsin			2
-IRRI	International Rice Research Centre, Manila, Philippines					0
-ISMC	Insect Sciences Museum, Oakland, California, USA	5216	Indiana Department of Natural Resources			1
-IRSN	Institut Royale de Science Naturelles, Brussels, Belgium	5837	Institut Royal des Sciences Naturelles de Belgique			45
-ISZA	Istituto Sperimentale per la Zoologia Agraria, Firenze, Italy	6043	Istituto Sperimentale per la Zoologia Agraria			1
-ITBC	Institute for Tropical Biology and Conservation, Universiti Malaysia Sabah, Kota Kinabalu, Malaysia					1
-ITZA	Institute of Taxonomic Zoology, Amsterdam, Netherlands	7659	Instituut voor Taxonomische Zoologie, Amsterdam			50
-IUKG	Institut der Universität Köln, Köln, Germany					18
-IZAK	Institute of Zoology, Academgorodok, Almaty, 050060, Kazakhstan					4
-IZAS	Institute of Zoology, Academy of Sciences, Beijing 100080, China					373
-IZRI	Instituto di Zoologia (Entomologia), Roma, Italy					1
-IZSU	Institute of Zoology, Shaanxi Normal University, Xian, China	7793	Institute of Zoology, Shaanxi Normal University, Xi’an, China			1
-IZTG	Institute of Zoology, Georgian Academy of Sciences, Tbilisi, Georgia					13
-JACO	Janzon Collection, Sweden					1
-JXAU	Jiangxi Agricultural University, Nanchang 330045, China	1280	Jiangxi Agricultural University			26
-KACO	Kalina Collection, Czech Republic					2
-KNAG	Korea National Arboretum, Prov. Gyenggi, 487-821, South Korea					1
-KOCO	Kostadinov Collection, Bulgaria					2
-KSMA	King Saud University Museum of Arthropods, Plant Protection Department, King Saud University, Riyadh, Saudi Arabia	7069	King Saud University for Arthropods, Plant Protection Department, College of Food and Agri- culture Sciences, King Saud University, Riyadh, Saudi Arabia			5
-KUMK	Kyoto University Museum, Kyoto University, Kyoto, Japan					1
-KYUN	Entomological Laboratory, Faculty of Agriculture, Kyushu University, Fukuoka 812-8581, Japan					62
-LACM	Los Angeles County Museum, Los Angeles, California, USA					9
-LBDA	Lab. de Biologia, Dundo, Angola					0
-LCLS	Linnaeus Collection, Linnean Society, London, England					1
-IRBK	Invertebrate Resources Bank of Korea, Seoul National University, Seoul, 151-742, South Korea					2
-LCXU	Life Science and Technology College, Xinjiang University, Urumqi, Xinjiang 830046, China					13
-LEEH	Y. Shirota Collection, Laboratory of Evolutional Ecology, Faculty of Agriculture and Life Sciences, Hirosaki University,Hirosaki 036-8224, Japan					1
-LMNH	Los Baños Museum of Natural History, University of the Pilippines, College 4031, Laguna, Philippines	6466	Museum d'Histoire naturelle			1
-lost	type material lost					270
-LUNZ	Department of Entomology, Lincoln University, Canterbury, New Zealand	4032	Lincoln University Entomology Research Museum			6
-LUQC	Laval University, Quebec, Canada					4
-LUZN	Zoological Museum, Lund University, Sweden					460
-MACN	Museo Argentino Ciencas Naturales, Buenos Aires, Argentina					64
-MAIG	Museum of Amber Inclusions, Department of Invertebrate Zoology, Gdansk, Poland	7226	Museum of Amber Inclusions, Department of Invertebrate Zoology and Parasitology, Faculty of Biology, Gdańsk University (Gdańsk, Poland)			2
-MBRA	Museo Argentina de Ciencas Naturales "Bernadino Rivadavia", B. Aires					3
-MCNA	Museo de Ciencias Naturales de ¦lava, Vitoria-Gasteiz, Spain	5204	Museo de Ciencias Naturales de Álava (Álava Province), Vitoria-Gasteiz, Álava, Spain			5
-MCNV	Pañalver Collection, Museo de Ciencias Naturales, Valencia, Spain	6186	Museo Civico di Storia Naturale, Venice			1
-MCQC	Macdonald College, Quebec, Canada					0
-MCSN	Museo Civico di Storia Naturale, Genoa, Italy					44
-MCZ	Museum of Comparative Zoology, Harvard University, Cambridge, Massachusetts, USA					39
-MDCO	Miktat Doganlar Collection, Turkey					3
-MECO	N.F. Meyer Collection, (Leningrad or Moscow), Russia					1
-MHNB	Musee d'Histoire Naturelle "Grigore Antipa", Bucharest, Romania					6
-MEJO	Museo Entomológico "José M. Osorio", Venezuela					1
-MGIG	Museo Geominero of the Instituto Geológico y Minero de España, Madrid, Spain					1
-MHNG	Muséum d'Histoire Naturelle, Geneva, Switzerland	153	Museum d'Histoire Naturelle, Geneva, Switzerland			66
-MICO	Mitroiu Collection, Faculty of Biology, Alexandru Ioan Cuza University, Iasi, Romania	7625	M.-D. Mitroiu’s personal collection., Faculty of Biology, the Alexandru Ioan Cuza University of Iași, Romania			3
-MIZT	Museo ed Istituto Zoologia Sistematica, Turin, Italy	6181	Universita di Torino			6
-MKUT	Insect Museum of Plant Protection Department, Agriculture Faculty, Mustafa Kemal University, 31034 Antakaya, Hatay, Turkey					67
-MLP	Museo La Plata, La Plata, Argentina	4917	Museo de La Plata			260
-MLSF	Museum "La Specola", Florence, Italy					13
-MMME	Manchester Museum, Manchester, England					3
-MNBG	Museum für Naturkunde, 10115 Berlin, Germany					5
-MNCN	Museo Nacional de Ciencias Naturales, J. Gutiérrez Abascal 2, 28006, Madrid, Spain					243
-MNHG	Museum of Natural History, Gothenberg, Sweden					3
-MNHN	Muséum National d'Histoire Naturelle, Paris, France					465
-MNNC	Colección Nacional de Insectos, Museo Nacional de Historia Natural, Santiago, Chile	5882	Museo Nacional de Historia Natural, Santiago, Chile			12
-MNZW	Museum of New Zealand, Wellington, New Zealand					1
-MPEG	Museu Paraense 'Emilio Goeldi', Belem, Para, Brazil					4
-MPMB	Mineralogy & Petrology Museum, Università di Bologna, Italy					1
-MPMW	Milwaukee Public Museum, Milwaukee, Wisonsin, USA					13
-MPQC	Laval University, Quebec, Canada					27
-MRAC	Musée Royal d'Afrique Centrale, Tervuren, Belgium	142	Musée Royal de l’Afrique Centrale			57
-MRCB	Musée Royal d'Afrique Centrale, Tervuren, Belgium	5850	Musée Royal de l’Afrique Centrale, Tervuren, Belgium			7
-MRSN	Museo Regionale di Scienze Naturali, Torino, Italy	1747	Museo Regionale di Scienze Naturali			1
-MSCM	Massachusetts State Collection, Amherst, Massachusetts, USA					1
-MSCO	Mani & Saraswat Collection, St John's College, Agra, India					1
-MSUC	Mississippi State University, USA	1695	Mississippi State University			1
-MUSM	Museo de Historia Natural de la Universidad Nacional Mayor de San Marcos, Lima, Peru	4416	Museo de Historia Natural de la Universidad Nacional Mayor de San Marcos en Lima			3
-MWRG	The Natural History Museum, London SW7 5BD, England					7
-MZBI	Museum Zoologicum Bogoriense, Bogor, Java, Indonesia	7279	Museum Zoologicum Bogoriense, Bogor, Indonesia			19
-MZCR	Museo de Zoologia, Escuela de Biología, Universidad de Costa Rica, San Pedro, Costa Rica	4386	Museo de Zoologia			7
-MZNA	Museo de Zoología, Univesidad de Navarra, 31080, Pamplona, Spain	259	Universidad de Navarra, Museum of Zoology			1
-MZSP	Coleçao Entomológica do Museu de Zoologia de Universidade de Sao Paulo, Sao Paulo, Brazil	5447	Sao Paulo, Museu de Zoologia da Universidade de Sao Paulo			31
-NACO	Nagaraja Collection, India					1
-NARC	National Agricultural Research Center, Tsukuba, Ibaraki 305, Japan					0
-NCHU	Department of Entomology, National Chung Hsing University, 250 Kuo Kuang Road, Taichung 40227, , Taiwan	5874	National Chung Hsing University, Taiwan			1
-NCPM	National Bureau of Agricultural Insects Resources, Bellary Road, Post Bag No 2491, H.A. Farm Post, Benglaru, Karnataka  560 024, India					118
-NCSU	Insect Collection, North Carolina State University, Raleigh, North Carolina 27695-7613, U.S.A.	195	North Carolina State University Insect Collection			1
-NEFU	Northeast Forestry University, Harbin, Heilongjiang 150040, China	7053	Northeast Forestry University, Harbin, China			52
-NSDA	New South Wales Department of Agriculture, Sydney, New South Wales, Australia					0
-NMBE	Naturhistorisches Museum der Burgergemeinde Bern, Berne, Switzerland	6455	Naturhistorisches Museum der Burgergemeinde Bern			7
-NHMM	Natuurhistorisch Museum, Maastricht, Netherlands	5747	Natuurhistorisch Museum Museum of Maastricht, Maastricht, the Netherlands			1
-NHMO	Natural History Museum, Oslo University, P.O. Box 1172, Blindern, NO-0318 Oslo, Norway	4723	Natural History Museum, University of Oslo			6
-NHMV	Naturhistorisches Museum, Vienna, Austria	7140	Naturhistorisches Museum, Wien, Austria			488
-NHRC	Natural History Research Centre, Baghdad, Iraq					1
-NHRM	Naturhistoriska Riksmuseet, Stockholm, Sweden					89
-NIAS	National Institute of Agricultural Sciences, Tokyo, Japan	4353	National Institute of Agrobiological Sciences			11
-NIAJ	National Institute of Agricultural Sciences, Yatabe, Tsukuba, Japan					3
-NIDP	National Institute of Deserts, Plant and Animal World, Turkmenistan Ministry of Nature, Ashkhabad, Turkmenistan					1
-NIES	National Institute of Agro-environmental Sciences, Ibaraki, Japan	7003	National Institute for Environmental Studies			50
-NMID	National Museum of Ireland, Dublin	6167	National Museum of Ireland			45
-NMK	National Museum of Kenya, Nairobi, Kenya	6084	National Museum of Kenya, Nairobi			18
-NMNS	National Museum of Nature and Science, Tokyo, Japan					1
-NMP	Narodni Muzeum v Praze, Prague, Czechoslovakia					84
-NMVM	National Museum of Victoria, Melbourne, Victoria, Australia	7168	Museum of Victoria, Melbourne, Victoria, Australia			65
-NMZB	National Museum of Zimbabwe (Rhodesia), Bulawayo, Zimbabwe	5199	National Museum of Zimbabwe			1
-NRCB	National Reference Centre for Biological Control, Colima, Mexico					1
-NSMT	National Science Museum, Tokyo, Japan					1
-NTUT	Department of Entomology, National Taiwan University, Taipei, Taiwan					10
-NVCO	Navone Collection, Museo Regionale Scienze Naturali, Torino, Italy					3
-NWAU	Entomology Museum, Northwestern Agricultural University, Yangling, Shaanxi, China	5213	North-West Agricultural University			2
-NWCF	Northwestern College of Forestry, Yangling 712100, Shaanxi, China					118
-OILB	Cententro d'Identificazione degli Entomofagi, Organizzazione Internazionel di Lotta Biologica, ?Switzerland					1
-ORST	Muséum National d'Histoire Naturelle, Paris, France	6312	Office de la Recherche Scientifique et Technique d'Outre-Mer			4
-OSOU	Oregon State University , Corvallis, Oregon, USA	7191	Oregon State University, Corvallis, Oregon			3
-OSUC	OSU Insect Collection, Ohio State University, Columbus, Ohio, USA					2
-OSUW	Ohio State University, Wooster, Ohio, USA					1
-PCAB	Priyadarsanan Collection, Ashoka Trust for Research in Ecology and the Environment (ATREE), Hebbal, Bangalore 560 024, India					8
-PDBC	Project Directorate of Biological Control, Post Bag No 2491, H.A. Farm Post, Bellary Road, Hebbal, Bangalore - 560024, Karnataka, India					16
-PECO	Pelov Collection, Bulgaria					1
-PIFU	Institut für Paläeontologie, Freie Universität, Schwedenerstrasse 8, 1000 Berlin 33, Germany					0
-PIMR	Paedagological Institute, Moscow, Russia					3
-PNUT	Paolo Navone Collection, Entomologia e Zoologia applicate all'Ambiente, University of Torino, via L. da Vinci 44, 10095 Grugliasco (TO), Italy					1
-PPGE	Plant Protection Research Institute, Dokki, Giza 12618, Egypt					9
-PPIK	Plant Protection Institute, Kostinbrod, Bulgaria					2
-PPRI	Plant Protection Research Institute, Pretoria, South Africa					292
-PSCI	PSCIR Labs., Pest Division, Karachi, Pakistan					1
-QACO	Q. Argaman Collection, Israel					9
-QCAZ	Pontificia Universidad Catolica del Ecuador, Quito, Ecuador	147	Museo de Zoologia, Pontificia Universidad Catolica del Ecuador			1
-QMB	Queensland Museum, Brisbane, Australia	5961	Queensland Museum, Brisbane			2707
-QSBG	Queen Sirikit Botanic Garden, Chiang Mai, Thailand	7055	Queen Sirikit Botanical Garden, Mae Rim, Chiang Mai, Thailand			6
-QVMT	Queen Victoria Museum & Art Gallery, Launceston, Tasmania 7250, Australia					1
-RASM	Palaeontological Institute, Russian Academy of Sciences, Moscow 117647, Russia					17
-RICO	Rivnay Collection, Israel					0
-RLCO	Rishi & Lone Coll., University of Kashmir, India					0
-SNME	National Museums of Scotland, Edinburgh, Scotland					15
-RNHL	Rijksmuseum Natuurlijke, Leiden, Netherlands					262
-RNSS	Royal Norwegian Society of Science and Letters Museum, Trondheim, Norway					4
-ROMT	Royal Ontario Museum, Toronto, Canada					9
-RPSP	Universidade de Sao Paulo, FFCLRP - USP; 14040-901, Bairro Monte Alegre, Ribeirao Preto, Sao Paulo, Brazil	4615	Universidade de Sao Paulo			1
-RRAC	R.R. Askew Collection, England					3
-RUKI	Plant Protection Department, College of Agriculture, Razi University, Kermanshah, Iran					1
-SAMA	South Australian Museum, Adelaide, South Australia					240
-SAMC	South African Museum, Cape Town, South Africa	103	Iziko Museums of Cape Town			74
-SAUL	Insect Collection, Shenyang Agricultural University, Shenyang, Liaoning 110161, China					14
-SCAC	South China Agricultural College, China	5269	South China Agricultural College			4
-SCAU	Laboratory of Insect Ecology, South China Agricultural University, Guangzhou 510642, China	7943	Department of Entomology, South China Agricultural University			3
-SCCO	S. Compton Collection, England					3
-SEML	Snow Entomological Museum, Lawrence, Kansas, USA					2
-SFAS	Insect Museum, General Station of Forest Pest Management, State Forestry Administration, Shenyang 110034, China					1
-SFTD	WB Biologie, Sektion Forstwirtschaft, Thanrandt, Dresden, Germany					1
-SIBS	Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200032, China	2461	Institute of Biology of the Southern Seas (IBSS)			3
-SIPP	Shaanxi Institute of Plant Protection, Shaanxi, P.R. China					2
-SJCA	St John's College, Agra, India	5313	St. John's College			59
-SMNS	Staatliches Museum für Naturkunde, Stuttgart, Germany	4919	Staatliches Museum für Naturkunde Stuttgart, Germany			9
-SMTD	Staatliches Museum für Tierkunde, Dresen, Germany	7519	Senckenberg Museum für Tierkunde, Dresden, Germany			1
-SMUF	Forschungsintitut und Naturmuseum Senckenberg, Frankfurt am Main, Germany					6
-SNMB	Slovak National Museum, Bratisalva, Slovakia	5617	Staatliches Naturhistorisches Museum			1
-SNRI	Sichuan Natural Resources Institute, Chengdu, Sichuan, China					3
-SPSU	Entomological Museum, School of Agronomic Sciences - Sao Paulo State University (UNESP), Campus Botucatu, 18610-307 Botucatu, Sao Paulo, Brazil					1
-SUCO	S.N. Sushil Collection, G.B. Pant University of Agriculture & Technology, Pantnagar 263 145, India	2601	State University of New York, College at Oneonta			2
-SUCS	Sichuan University, Chengdhu, Sichuan, China					2
-TAMU	Deptartment of Entomology, Texas A&M University, College Station, Texas, USA	2668	Texas A&M University			98
-TARI	Insect Museum, Taiwan Agricultural Research Institute, Taichung, Taiwan					57
-TAUI	Tel Aviv University Insect Collection, The Steinhardt Museum of Natural History,  Tel-Aviv University, Israel					11
-TFRI	Insect Museum, Tropical Forest Research Institute, Jabalpur, Madhya Pradesh 482 021, India					4
-TLMF	Tiroler Landesmuseum Ferdinandeum, Innsbruck, Naturwissenschaftliche Sammlungen, Feldsrasse 11a, A-6020 Innsbruck, Austria	5776	Tiroler Landesmuseum Ferdinandeum			1
-TMPC	Royal Tyrrell Museum of Palaeontology, Drumheller, Alberta, Canada	7664	Ted MacRae Personal Collection			3
-TMUP	Ditsong National Museum of Natural History (=Transvaal Museum), Pretoria, South Africa					4
-TRCO	Traboulsi Collection, ?Lebanon					1
-UACV	Universidad Austral de Chile, Vladivia, Chile					1
-UAFY	Forestry Academy of Northwestern Sci Tech. University of Agriculture and Forestry, Yangling, Shaanxi 712100, China					12
-UASB	University of Agricultural Sciences, Benglaru 560 065, Karnataka, India					1
-UATM	Museo de Insectos, Universidad Autónoma de Tamaulipas, Cd. Victoria, Tamaulipas 87149, México					1
-UCCS	University of Ceylon, Columbo, Sri Lanka					6
-UCD	Bohart Museum of Entomology, University of California, Davis, California, USA	5408	University of California, Davis			82
-UCFC	University of Florida Collection of Arthropods, Orlando, Florida, USA	5435	University of Central Florida Collection of Arthropods			1
-UCMP	University of California Museum of Palaeontology, Berkeley, California	4181	University of California Museum of Paleontology			2
-UCVM	Museo de Zoologia, Facultad de Agronomia, Universidad Central de Venezuela, Maracay, Venezuela					4
-UCR	University of California, Riverside, California, USA					269
-UDAD	University of Delaware Agricultural Experiment Station, Newark, Delaware, USA					1
-UDSN	Universita Degli Studi di Napoli, Napoli, Italy					2
-UFES	Universidade Federal do Espírito Santo, Av. Marechal Campos 1468, Maruípe, 29040-090 Vitória, Espirito Santo, Brazil	3962	Universidade Federal do Espirito Santo			9
-UFPB	Departimento da Zoologia, Universidade Federal do Paraná, Caixa Postal 19020, 81531-980 Curutuba, Paraná, Brazil					4
-UFPC	Coleçao de Entomologia Pe. Jesus Santiago Moure, Universidade Federal do Paraná, Curitiba, Brazil					4
-UGA	University of Georgia, Athens, Georgia, USA					2
-UKNH	Natural History Museum, University of Kansas, Lawrence, Kansas, USA					1
-ULLT	University LaLaguna, Tenerife, Canary Islands					1
-UMSP	University of Minnesota, St Paul, Minnesota, USA	293	University of Minnesota Insect Collection			2
-UMK	University Museum, Konigsberg, Germany					1
-UNAB	Museo Entomológico UNAB, Universidad Nacional de Colombia, Facultad de Ciencias Agrarias. Cra 30, 45-03. Bogotá, Colombia	6152	Museo Entomológico de la Facultad de Agronomía of the Universidad Nacional de Colombia, Bogotá D.C, Colombia			1
-UNBN	University of Bergen, Norway	3506	University of Bergen			2
-UNCA	Istituto di Agricultura y Entomologia, University of Catania, Italy					1
-UNAM	Instituto de Biologia, Universidad Nacional Autonoma de Mexico, District Federal, Mexico	4175	Universidad Nacional Autonoma de Mexico			7
-UPLB	University of Philippines, Los Baños, Philippines					1
-URGV	Colección Entomológia, Universidad Nacional Experimental Rómulo Gallegos, San Juan de los Morros, estado Guárico, Venezuela					4
-USNM	United States Museum of Natural History, Washington D.C., USA					4014
-UTSU	Utah State University, Uyah, USA	2946	Utah State University Uintah Basin			1
-UYYC	Laboratory of Zoology, Higher Teacher's Training College, University of Yaounde I, P.O. Box 47, Yaounde, Cameroon					1
-UZIU	Museum of Evolution, Uppsala University, Uppsala, Sweden	5993	Uppsala University			1
-VICO	Vikberg Collection, Helsinki, Finland					0
-VRCP	Virus Research Centre, Poona, India					1
-WAMP	Western Australian Museum, Perth, Western Australia, Australia					4
-WAUE	Department of Entomology, Agriculutural University, Wageningen, Netherlands					1
-XTBG	Xishuangbanna Tropical Botanical Garden, The Chinese Academy of Sciences, Kunming, Yunnan, China	7612	Xishuangbanna Tropical Botanical garden			4
-ZACH	Zhejiang Agricultural Cardre College, Huangzhou, China					1
-ZAFU	Department of Plant Protection, School of Agriculture and Food Science, Zhejiang Agriculture & Forestry University, Huangzhou, Zhejiang 311 300, China					1
-ZAMU	Zoological Museum, Aligarh Muslim University, Uttar Pradesh, India					480
-ZAUC	Institute of Applied Entomology, Zhejiang University, Hangzhou 310029, Zhejiang 310029, China	5387	Zhejian Agricultural University			117
-ZDTU	Zoology Department, Tel Aviv University, Israel					6
-ZFBK	Ziraat Fakültesi Bitki Koruma Bölümünde, Ankara Universitesi, Turkey					3
-ZFMK	Zoologisches Forschungsinstitut und Museum, Bonn, Germany	319	Zoologisches Forschungsmuseum Alexander Koenig			3
-ZIAT	Zoological Institute, Ashkhabad, Turkmenia					6
-ZIEA	Zoological Institute, Erevan, Armenia					2
-ZIHG	Zoological Institute, Hamburg, Germany					1
-ZIKU	Schmalhausen Institute of Zoology of Ukrainian Academy of Sciences, Kiev, Ukraine	5160	Zoological Institute, Kochi University			304
-ZIOU	Zoological Institute, Oolu Universtity, Finland					1
-ZIRM	Zoological Institute, Acadademy of Sciences, Chisinau, Republic of Moldova					7
-ZISP	Zoological Institute, St Petersburg, Russia	4268	Zoological Institute, Russian Academy of Sciences			1110
-ZMCU	Zoological Museum, Cambridge University, England					2
-ZMHH	Zoologisches Museum Hamburg, Hamburg, Germany	7213	Zoologisches Museum für Hamburg, Hamburg, Germany			1
-ZMHU	Zoological Museum, Humboldt University, Berlin	4034	Zoologisches Museum der Humboldt Universitaet			132
-ZMMU	Zoological Museum, Moscow University, Moscow, Russia	316	Zoological Museum, Moscow Lomonosov State University			27
-ZMUC	Zoologiske Museum, Copenhagen, Denmark					95
-ZMUH	Zoological Museum, University of Helsinki, Finland					11
-ZMUK	Zoological Museum University of Karachi, Karachi, Pakistan					12
-ZSIC	Zoological Survey of India, Calcutta, India	7239	Geological Survey of India, Calcutta			230
-ZSIJ	Desert Regional Station, Zoological Survey of India, Jodhpur, Rajasthan 342005, India					1
-ZSIK	Zoological Survey of India, Western Ghats Field Research Station, Calicut 673002, Kerala, India	7058	National Zoological Collections of Zoological Survey of India Western Ghat Regional Centre, Kozhikode			368
-ZSIO	Zoological Survey of India, Estuarine Biological Station, Godalpur-on-Sea, Orissa 761002, India					1
-ZSIR	Zoological Survey of India, Gangetic Plains Regional Station, Rajendra Nagar, Patna, Bihar 800016, India					3
-ZSIP	Western Regional Station, Zoological Survey of India, Pune, Maharashtra 411 044, India					2
-ZSMM	Zoologische Staatssammlung München, Munich, Germany					48
+coden	coll_name	repository_id	repository_name	not_in_taxonworks	count	notes
+ADCO	Donev Collection, University of Plovdiv 'P. Hildenarski', Bulgaria			1	7	
+AEI	American Entomological Institute, Gainesville, Florida, USA	4293	American Entomological Institute		70	
+AICF	Fusu Collection, Faculty of Biology, Alexandru Ioan Cuzu University, Iasi, Romania	7262	Alexandru Ioan Cuza University of Iasi, Romania, Lucian Fusu personal collection		13	
+AICU	Departmemnt of Biology, "Alexandru Ioan Cuza" University of Iasi, Iasi, Romania			1	1	not 7262
+AMNH	American Museum of Natural History, New York, USA	4180	American Museum of Natural History		39	
+ANCO	Andriescu Collection, Romania			1	3	is at Alexandru Ioan Cuza University of Iași (UAIC)?
+ANIC	Australian National Insect Collection, Canberra, Australia	18	Australian National Insect Collection		288	
+ANSP	Academy of Natural Sciences of Philadelphia, Pennsylvania, USA	4204	Academy of Natural Sciences of Philadelphia		51	
+AUET	Deptartment of Plant Protection, Ataturk University, Erzurum, Turkey	27	Bernice P. Bishop Museum, Honolulu, Hawaii, USA		2	
+AUTG	Institute of Entomology, Agricultural University of Georgia, Agmashenebeli alley 13km, Tbilisi, Georgia	7056			6	
+AUSM	Australian Museum, Sydney, New South Wales, Australia	7178			4	
+BAUC	Beijing Agricultural University, Beijing 100094, China	3454			2	
+BCRI	Biochemical and Biological Research Institute, Rydalmere, Sydney, Australia				2	Institute abolished in 1992
+BECO	Becker Collection, Universidade Federal de Rio Grande do Sul, Porto Alegre, Brazil			1	1	
+BGMS	Instituto de Ciencias Biológicas, Universidade Federal de Minas Gerais, CP2486, CEP 30000, Belo Horizonte, Minas Gerais, Brazil				8	contact someone in Brazil?  No hits online.
+BMNH	The Natural History Museum, London SW7 5BD, England	7136	Natural History Museum (formerly British Museum (Natural History)), London, UK		5407	
+BOCA	Bonomi-Cazzuoli Collection, Via Imperiale 622, San Felice sul Panaro, Modena, Italy				1	email to Noyes 24 June
+BOCO	Boucek Collection, England				4	email to Noyes 24 June
+BPBM	Bernice Pauahi Bishop Museum, Honolulu, Hawaii	27	Bernice P. Bishop Museum, Honolulu, Hawaii, USA		198	
+BRNG	Biologische Reichs. für Land- und Forstwirtschaft, Naumburg, Germany			1	1	
+BUCI	Bharathiar University, Coimbatore, India				4	
+CAFB	Chinese Academy of Forestry, Beijing 100091, China	3676	Northern Forestry Centre, Canadian Forest Service		70	
+CAS	California Academy of Sciences, San Francisco, California, USA	326	California Academy of Sciences, San Francisco, California		57	
+CBGP	INRA-CIRAD-IRD-Supagro Collection, Campus International de Baillarguet, CS 30016, F-34988, Montferrier-sur-Lez, France				22	probably 326
+CDFA	California Department of Food and Agriculture, Sacramento, California, USA	7965	California Department of Food and Agriculture, Sacramento		1	
+CHPC	Christer Hansson Collection, Department of Zoology, University of Lund, Gelgonavägen 3, SE-223 62 Lund, Sweden				4	not 7670 Curt Harden Personal Collection
+CIBE	Colección de Insectos Benéficos Entomófagos, Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo Léon, Nuevo Léon, México				1	
+CIIU	Centro de Int. y Cria de Ins. Utiles, Peru				1	
+CIRA	CIRAD, Montpellier, France				12	
+CMNH	Carnegie Museum of Natural History, Pittsburgh, Pennsylvania 15213, USA				1	probably 7084
+CNC	Canadian National Collection, Ottawa, Canada	5488	Canadian National Collection of Insects		625	
+CNEP	Collection of Natural Enemies of Pests, Hubei University, Wuhan, Hubei 430062, China				10	
+CNHM	Cracow Natural History Museum, Cracow, Poland				2	
+CNMS	National Museum, Colombo, Sri Lanka	6063	Colombo National Museum		3	
+CPT	Fundación Conjunto Paleontológicode Teruel-Dinópolis, Teruel, Spain	7630	The Fundación Conjunto Paleontológico de Teruel-Dinópolis, Teruel, Spain		2	
+CUTT	Plant Protection Department, Cumhuriyet Universitesi, Tokat Ziraat Fakültesi, Tokat, Turkey				9	
+CZMA	Caleçao Zoológica do Maranhao, Caxias, Maranhao, Brazil	7099	Coleção de Zoologia do Maranhão, Universidade Estadual do Maranhão, Caxias, MA, Brazil		1	
+DACO	D.C. Darling Collection, Canada				3	
+DAFZ	University of Helsinki, Finland	284	University of Helsinki - FBCC		9	
+DAGU	Museum of Plant Protection Department, Agriculture Faculty, Gaziosmanpasa University, Tokat 60250, Turkey				1	
+DBCU	Department of Biology, Faculty of Science and Art, Cumhuriyet University, 58140 Sivas, Turkey				1	
+DCBU	Department of Ecology, Biology and Evolution, Universidade Federal de Sao Carlos, Sao Paulo, Brazil	4765	Universidade Federal de Sao Carlos		4	
+DEAP	Department of Agriculture, Perth, Western Australia, Australia			1	23	
+DECU	Department of Entomology, Cornell University, Ithaca, New York, USA	5455	Cornell University Insect Collection		16	
+DOCO	Domenichini collection, Istituto di Entomologia, Piacenza, Italy				1	
+INIC	Instituto Nacional de Investigaciones de la Caña de Azucar de Cuba, La Habana, Cuba				2	
+DEI	Deutsches Entomologisches Institut, Eberswalde, Germany	4660	Senckenberg Deutsches Entomologisches Institut		97	
+dest	Type destroyed				12	
+DEZP	Deptartimento di Entomologia e Zoologia Agraria, Università di Napoli, Portici, Italy	7588	Università di Napoli “Federico II”, Dipartimento di Agraria, Collezione di Entomologia Filippo Silvestri, Portici, Italy		158	
+DJRF	B. Vasantharaj David Coll., Jai Research Foundation, Valvada, Gujarat, India				4	
+DPIK	Department of Primary Industry, Konedobu, Papua New Guinea				1	
+DPIQ	Department of Primary Industry, Toowoomba, Queensland, Australia				2	
+DPPZ	Department of Plant Protection, School of Agriculture and Food Science, Zhejiang Agriculture & Forestry University, Lin'an, Zhejiang 311300, China	7554	Department of Plant Protection, University of Zabol, Iran		3	
+DSIR	New Zealand Arthropod Collection, Landcare Research, Auckland, New Zealand	4978	Department of Scientific and Industrial Research		94	
+DZPU	Department of Zoology, Panjab University, Chandigarh 160 014, Punjab, India				3	
+DZUC	Department of Zoology, University of Calicut, Kerala, India	5987	Departamento de Zoologia da Universidade de Coimbra		187	
+DZUH	Department of Zoology, University of Havana, La Habana (Havana), Cuba	6799	Departamento de Zoologia, Universidad de Havana		3	
+DZUP	Department of Zoology, University of Plovdiv 'Paisii Hilenarski', 4000 - Plovdiv, Bulgaria			1	4	not Brazil
+EALQ	Escola Superior Agricoltura Luiz de Queiroz, Piraciciba, Brazil				16	
+EAPZ	Escuela Agricola Panamericana Zamorano, Tegucigalpa, Honduras	5671	Escuela Agricola Panamericana		1	
+EBRC	Insect Collection of Entomology and Biocontrol Research Centre, Ilia State University, Tbilisi, Georgia			1	23	
+EDMU	Entomology Department, Michigan State University, East Lansing, Michigan, USA				1	
+EDAU	Parasitoid Taxonomy and Biocontrol Laboratory, Entomology Department, Annamalai University, Chidambaram, Tamil Nadi 608002, India	7113	Entomology Department, Annamali University, Chidambaram, India		59	
+ERMJ	Eternal River Museum of Natural History, Amman, Jordan	7631	Eternal River Museum of Natural History, Amman, Jordan		1	
+EDUA	Entomology Department, University of Amsterdam, Netherlands				2	
+ELUM	Art and Sciece Faculty, Entomology Laboratory, University of Mugla, 48170 Kötekli/Mugla, Turkey				1	
+EIHU	Entomological Laboratory, Hokkaido University, Japan	4174	Entomological Institute, Hokkaido University		125	
+ETHZ	Entomologisches Institute der E.T.H., Zurich, Switzerland	6294	Eidgenoessische Technische Hochschule-Zentrum		57	
+ELEU	Entomology Laboratory, Ehime University, Japan	5797	Ehime University, Matsuyama, Japan		34	
+ELNJ	Entomology Laboratory, Faculty of Agriculture, Meijo University, Nagoya, Japan	6148	Meijo University		10	
+EMEB	Essig Museum of Entomology, University of California, Berkeley, California, USA	3966	Essig Museum of Entomology		12	
+ENAR	Escola Nacional da Agronomia, Rio de Janeiro, Brazil	7198	Departamento de Entomologia, Universidade Federal Rural do Rio de Janeiro, Brazil		3	
+EPNC	Escuela Polytécnica Nacional Collection, Quito, Ecuador	7033	Escuela Politécnica Nacional, Quito, Ecuador		6	
+FAAU	Department of Economic Entomology, Faculty of Agriculture, Alexandria University, Egypt	3312	University of Alexandria		3	
+FACC	Biological Control Institute, Fujian Agriculture and Forestry University, Fuzhou 350002, Fujian, China	7062	Fujian Agricultural and Forestry University		201	
+FAHU	Faculty of Agriculture, Hebrew University, Rehovot, Israel				1	
+FBUB	Facultad de Biologia, Universidad Barcelona, Spain	5796	Universitat Bielefeld		1	
+FFRI	Finnish Forest Research Institute, Helsinki, Finland				1	
+FIUB	Forstzoologisches Institut der Universität fur Bodenkultur, 1180 Wien, Gregor Mendel-Strasse 33, Austria				1	
+FML	Fundación e Instituto Miguel Lillo, San Miguel de Tucumán, Argentina	4701	Fundacion Miguel Lillo		27	
+FRCS	Forest Research Center Kuching (FKSM), Forest Department Sarawak, Km 10, Jalan Penrissen, 93250 Kuching, Sarawak, Malaysia	5500	Forest Research Centre		1	
+FRID	Forest Research Institute, P.O. New Forest, Dehra Dun, Uttarakhand, 248 006, India	7087	Forest Research Institute, Dehra Dun, Uttarakhand, 248 006, India		72	
+FRIM	Forest Research Institute, Kepon, Malaysia	5628	Forest Research Institute, Malaysia		3	
+FSCA	Florida State Collection of Arthropods, DPI, Gainesville, Florida, USA	7122	Florida State Collection of Arthropods		6	
+FSIK	Forest Science Institute, Kostalec, Czech Republic				4	
+FUSA	Faculté universitaire des Sciences agronomiques, Unité de Zoologie générale et appliquée, B.-5030 Gembloux, Belgium				1	
+CAGW	Forest Entomology Section, Central Agricultural College, Warsaw, Poland				0	
+GBPU	Department of Entomology, G.B. Pant University of Agriculture & Technology, Pantnagar 263 145, Uttarakhand, India				19	
+GCOL	Gijswijt Collection, Netherlands				2	
+GDCO	G. Domenichini Collection, Piacenza, Italy				3	
+GEIG	Guangdong Entoimological Institute, Guangzhou, China				14	
+HACO	Hayat Collection, Aligarh, India				4	
+HAUZ	Department of Plant Protection, Henan Agricultural University, Zhengzhou 450002, China				17	
+HC	Hedqvist Collection, Sweden			1	50	not in
+HCCO	H. Cam Collection, Gaziosmanpasa Universitesi, 60100 Tokat, Turkey				1	
+HDOU	Hope Department, Oxford University, Oxford, England				316	
+HMIM	Hayik Mirzayans Insect Museum, Iranian Research Institute of Plant Protection, P.O. Box 1454, Tehran 19395, Iran	7156	Hayk Mirzayans Insect Museum, Insect Taxonomy Research Department, Plant Pests and Diseases Research Institute, Tehran, Iran		6	good match
+HNHM	Hungarian Natural History Museum, Budapest, Hungary	4871	Hungarian Natural History Museum , Budapest, Hungary (Termeszettudomanyi Muzeum)		560	
+HOCO	Hoffmeyer Collection, Denmark				1	
+HSPA	Hawaiian Sugar Planters' Association, Honolulu, Hawaii				3	
+IAEE	Institute of Applied Ecology & Ecotechnology, University of Agriculture, Prague, Czech Republic				10	
+IAES	Imperial Agricultural Experiment Station, Japan				1	
+IARI	Indian Agricultural Research Institute, Delhi, India	336	Entomology Division of the Indian Agriculture Research Institute, New Delhi, India		334	
+IASS	Institute of Agricultural Science, Suweon, South Korea				1	
+IAUI	Department of Entomology, Islamic Azad University, Tehran, Iran				1	
+IAUT	Department of Agriculture, Shahre Rey Islamic Azad University, Tehran, Iran				5	
+IAVH	Instituto Alexander von Humboldt, Bogotá, Colombia	5219	Instituto de Ivestigacion de los Recursos Biologicos Alexander von Humboldt		2	
+IBER	Institute of Biodiversity and Ecosystem Research, Sofia, Bulgaria	7255	Institute of Biodiversity and Ecosystem Research, Sofia, Bulgaria		2	
+IBUS	Instituto de Biologia, Universidade Federal Rural do Rio de Janeiro, Seropédica, Brazil.	4725	Universidade Federal do Rio de Janeiro		1	
+ICBB	Instituto de Ciencias Biológicas, Universidade Federal de Minas Gerais, CP2486, CEP30000, Bello Horizonte, Minas Gerais, Brazil	4220	ICBB Culture Collection for Microorganisms and Cell Culture		4	
+ICGU	Insect Collection, Department of Plant Protection, College of Agriculture, Guangxi University, Nanning 530004, China				1	
+ICNC	Instituto de Ciencias Naturales, Universidad Nacional de Colombia, A.A. 7495 Bogotá, Colombia				2	
+IEAU	Istituto Entomologia y Agraria, Università di Palermo, Palermo, Italy	6051	Istituto di Entomologia Agraria dell'Universita		1	
+IEGB	Istituto di Entomologia 'Giudo Grandi', Bologna, Italy				10	
+IFUG	Institut für Forstzoologie der Universität Göttingen, Münden, Germany				2	
+IIAF	Instituto de Investigaciones Agropecuarias y Forestales, Universidad Michoacana de San Nicolás de Hidalgo, Tarimbaro, Michoacán 58880, México				1	
+IIRB	Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Villa de Leyva, Colombia				28	
+IMYT	Insect Museum, Biological Control Research Station, Yüregir, Adana, Turkey	7265	Insect Museum, Biological Control Research Station, Yüregir, Adana, Turkey		87	
+INBC	Instituto National de Biodiversidad, Santo Domingo, Heredia, Costa Rica	5114	Instituto Nacional de Biodiversidad (INBio)		602	
+INHM	Iraq Natural History Museum, University of Baghdad, Baghdad, Iraq	6048	Iraq Natural History Museum, Baghdad, Iraq		3	
+INHS	Illinois Natural History Survey, Urbana, Illinois, USA	3967	Illinois Natural History Survey		67	
+INIA	Crop Protection Department, INIA, Cordoba, Spain	4556	Instituto Nacional de Investigacion y Tecnologia Agraria y Alimentaria		1	there are 2, both seem OK
+INPA	Museum of the National Institute for Research in the Amazon, Manaus, Brasil	3921	Instituto Nacional de Pesquisas da Amazonia		10	dupes exist, but OK
+INRA	Station Zoo. & Biocontrol, INRA, Antibes, France	4474	Institut National de la Recherche Agronomique		13	
+INRM	INRA, Centre de Biologie et de Gestion des Populations, Campus international de Baillarguet, CS 30 016, 34988 Montferrier-sur-Lez, France				4	
+INTT	Institito Nacional de Tecnología, Tucumán, Argentina				1	
+IOCR	Instituto Oswaldo Cruz, Rio de Janeiro, Brazil				1	
+IPSF	Institute für Pflanzenschutzforschung, Eberswalde, Germany				1	
+IPSP	Istituto per la Protezione Sostenibile dell Plante, Consiglio Nazionale delle Ricerche, SS di Portici, Napoli, Italy				2	
+IRCW	University of Wisconsin, Madison, Wisconsin, USA	5791	Madison, University of Wisconsin		2	
+ISMC	Insect Sciences Museum, Oakland, California, USA	5216	Indiana Department of Natural Resources		1	
+IRSN	Institut Royale de Science Naturelles, Brussels, Belgium	5837	Institut Royal des Sciences Naturelles de Belgique		45	
+ISZA	Istituto Sperimentale per la Zoologia Agraria, Firenze, Italy	6043	Istituto Sperimentale per la Zoologia Agraria		1	
+ITBC	Institute for Tropical Biology and Conservation, Universiti Malaysia Sabah, Kota Kinabalu, Malaysia				1	
+ITZA	Institute of Taxonomic Zoology, Amsterdam, Netherlands	7659	Instituut voor Taxonomische Zoologie, Amsterdam		50	
+IUKG	Institut der Universität Köln, Köln, Germany				18	
+IZAK	Institute of Zoology, Academgorodok, Almaty, 050060, Kazakhstan				4	
+IZAS	Institute of Zoology, Academy of Sciences, Beijing 100080, China	7073	Institute of Zoology, Academy of Sciences, Beijing 100080, China		373	
+IZRI	Instituto di Zoologia (Entomologia), Roma, Italy				1	
+IZSU	Institute of Zoology, Shaanxi Normal University, Xian, China	7793	Institute of Zoology, Shaanxi Normal University, Xi’an, China		1	
+IZTG	Institute of Zoology, Georgian Academy of Sciences, Tbilisi, Georgia				13	
+JACO	Janzon Collection, Sweden				1	
+JXAU	Jiangxi Agricultural University, Nanchang 330045, China	1280	Jiangxi Agricultural University		26	
+KACO	Kalina Collection, Czech Republic				2	
+KNAG	Korea National Arboretum, Prov. Gyenggi, 487-821, South Korea				1	
+KOCO	Kostadinov Collection, Bulgaria				2	
+KSMA	King Saud University Museum of Arthropods, Plant Protection Department, King Saud University, Riyadh, Saudi Arabia	7069	King Saud University for Arthropods, Plant Protection Department, College of Food and Agri- culture Sciences, King Saud University, Riyadh, Saudi Arabia		5	
+KUMK	Kyoto University Museum, Kyoto University, Kyoto, Japan				1	
+KYUN	Entomological Laboratory, Faculty of Agriculture, Kyushu University, Fukuoka 812-8581, Japan				62	
+LACM	Los Angeles County Museum, Los Angeles, California, USA	186	Natural History Museum of Los Angeles County		9	
+LCLS	Linnaeus Collection, Linnean Society, London, England				1	
+IRBK	Invertebrate Resources Bank of Korea, Seoul National University, Seoul, 151-742, South Korea				2	
+LCXU	Life Science and Technology College, Xinjiang University, Urumqi, Xinjiang 830046, China				13	
+LEEH	Y. Shirota Collection, Laboratory of Evolutional Ecology, Faculty of Agriculture and Life Sciences, Hirosaki University,Hirosaki 036-8224, Japan				1	
+LMNH	Los Baños Museum of Natural History, University of the Pilippines, College 4031, Laguna, Philippines	6466	Museum d'Histoire naturelle		1	
+lost	type material lost				270	
+LUNZ	Department of Entomology, Lincoln University, Canterbury, New Zealand	4032	Lincoln University Entomology Research Museum		6	
+LUQC	Laval University, Quebec, Canada				4	
+LUZN	Zoological Museum, Lund University, Sweden				460	
+MACN	Museo Argentino Ciencas Naturales, Buenos Aires, Argentina	143	Museo Argentino de Ciencias Naturales Bernardino Rivadavia		64	
+MAIG	Museum of Amber Inclusions, Department of Invertebrate Zoology, Gdansk, Poland	7226	Museum of Amber Inclusions, Department of Invertebrate Zoology and Parasitology, Faculty of Biology, Gdańsk University (Gdańsk, Poland)		2	
+MBRA	Museo Argentina de Ciencas Naturales "Bernadino Rivadavia", B. Aires				3	
+MCNA	Museo de Ciencias Naturales de ¦lava, Vitoria-Gasteiz, Spain	5204	Museo de Ciencias Naturales de Álava (Álava Province), Vitoria-Gasteiz, Álava, Spain		5	
+MCNV	Pañalver Collection, Museo de Ciencias Naturales, Valencia, Spain	6186	Museo Civico di Storia Naturale, Venice		1	
+MCSN	Museo Civico di Storia Naturale, Genoa, Italy				44	maybe 4691, maybe new
+MCZ	Museum of Comparative Zoology, Harvard University, Cambridge, Massachusetts, USA	159	Museum of Comparative Zoology		39	
+MDCO	Miktat Doganlar Collection, Turkey				3	
+MECO	N.F. Meyer Collection, (Leningrad or Moscow), Russia				1	
+MHNB	Musee d'Histoire Naturelle "Grigore Antipa", Bucharest, Romania	6767	Natural History Museum Bucharest		6	uses "NHMB"
+MEJO	Museo Entomológico "José M. Osorio", Venezuela				1	
+MGIG	Museo Geominero of the Instituto Geológico y Minero de España, Madrid, Spain				1	
+MHNG	Muséum d'Histoire Naturelle, Geneva, Switzerland	153	Museum d'Histoire Naturelle, Geneva, Switzerland		66	
+MICO	Mitroiu Collection, Faculty of Biology, Alexandru Ioan Cuza University, Iasi, Romania	7625	M.-D. Mitroiu’s personal collection., Faculty of Biology, the Alexandru Ioan Cuza University of Iași, Romania		3	
+MIZT	Museo ed Istituto Zoologia Sistematica, Turin, Italy	6181	Universita di Torino		6	
+MKUT	Insect Museum of Plant Protection Department, Agriculture Faculty, Mustafa Kemal University, 31034 Antakaya, Hatay, Turkey				67	
+MLP	Museo La Plata, La Plata, Argentina	4917	Museo de La Plata		260	
+MLSF	Museum "La Specola", Florence, Italy				13	
+MMME	Manchester Museum, Manchester, England				3	
+MNBG	Museum für Naturkunde, 10115 Berlin, Germany				5	
+MNCN	Museo Nacional de Ciencias Naturales, J. Gutiérrez Abascal 2, 28006, Madrid, Spain	150	Museo Nacional de Ciencias Naturales		243	
+MNHG	Museum of Natural History, Gothenberg, Sweden				3	
+MNHN	Muséum National d'Histoire Naturelle, Paris, France	5069	Museum National d'Histoire Naturelle, Paris		465	
+MNNC	Colección Nacional de Insectos, Museo Nacional de Historia Natural, Santiago, Chile	5882	Museo Nacional de Historia Natural, Santiago, Chile		12	
+MNZW	Museum of New Zealand, Wellington, New Zealand				1	
+MPEG	Museu Paraense 'Emilio Goeldi', Belem, Para, Brazil	4949	Museu Paraense "Emilio Goeldi", Belém		4	
+MPMB	Mineralogy & Petrology Museum, Università di Bologna, Italy				1	
+MPMW	Milwaukee Public Museum, Milwaukee, Wisonsin, USA				13	
+MPQC	Laval University, Quebec, Canada				27	
+MRAC	Musée Royal d'Afrique Centrale, Tervuren, Belgium	142	Musée Royal de l’Afrique Centrale		57	
+MRCB	Musée Royal d'Afrique Centrale, Tervuren, Belgium	5850	Musée Royal de l’Afrique Centrale, Tervuren, Belgium		7	
+MRSN	Museo Regionale di Scienze Naturali, Torino, Italy	1747	Museo Regionale di Scienze Naturali		1	
+MSCM	Massachusetts State Collection, Amherst, Massachusetts, USA				1	
+MSCO	Mani & Saraswat Collection, St John's College, Agra, India				1	
+MSUC	Mississippi State University, USA	1695	Mississippi State University		1	
+MUSM	Museo de Historia Natural de la Universidad Nacional Mayor de San Marcos, Lima, Peru	4416	Museo de Historia Natural de la Universidad Nacional Mayor de San Marcos en Lima		3	
+MWRG	The Natural History Museum, London SW7 5BD, England				7	
+MZBI	Museum Zoologicum Bogoriense, Bogor, Java, Indonesia	7279	Museum Zoologicum Bogoriense, Bogor, Indonesia		19	
+MZCR	Museo de Zoologia, Escuela de Biología, Universidad de Costa Rica, San Pedro, Costa Rica	4386	Museo de Zoologia		7	
+MZNA	Museo de Zoología, Univesidad de Navarra, 31080, Pamplona, Spain	259	Universidad de Navarra, Museum of Zoology		1	
+MZSP	Coleçao Entomológica do Museu de Zoologia de Universidade de Sao Paulo, Sao Paulo, Brazil	5447	Sao Paulo, Museu de Zoologia da Universidade de Sao Paulo		31	
+NACO	Nagaraja Collection, India				1	
+NCHU	Department of Entomology, National Chung Hsing University, 250 Kuo Kuang Road, Taichung 40227, , Taiwan	5874	National Chung Hsing University, Taiwan		1	
+NCPM	National Bureau of Agricultural Insects Resources, Bellary Road, Post Bag No 2491, H.A. Farm Post, Benglaru, Karnataka  560 024, India				118	
+NCSU	Insect Collection, North Carolina State University, Raleigh, North Carolina 27695-7613, U.S.A.	195	North Carolina State University Insect Collection		1	
+NEFU	Northeast Forestry University, Harbin, Heilongjiang 150040, China	7053	Northeast Forestry University, Harbin, China		52	
+NMBE	Naturhistorisches Museum der Burgergemeinde Bern, Berne, Switzerland	6455	Naturhistorisches Museum der Burgergemeinde Bern		7	
+NHMM	Natuurhistorisch Museum, Maastricht, Netherlands	5747	Natuurhistorisch Museum Museum of Maastricht, Maastricht, the Netherlands		1	
+NHMO	Natural History Museum, Oslo University, P.O. Box 1172, Blindern, NO-0318 Oslo, Norway	4723	Natural History Museum, University of Oslo		6	
+NHMV	Naturhistorisches Museum, Vienna, Austria	7140	Naturhistorisches Museum, Wien, Austria		488	
+NHRC	Natural History Research Centre, Baghdad, Iraq				1	
+NHRM	Naturhistoriska Riksmuseet, Stockholm, Sweden	3958	Naturhistoriska Rijkmuseet		89	
+NIAS	National Institute of Agricultural Sciences, Tokyo, Japan	4353	National Institute of Agrobiological Sciences		11	
+NIAJ	National Institute of Agricultural Sciences, Yatabe, Tsukuba, Japan				3	
+NIDP	National Institute of Deserts, Plant and Animal World, Turkmenistan Ministry of Nature, Ashkhabad, Turkmenistan				1	
+NIES	National Institute of Agro-environmental Sciences, Ibaraki, Japan	7003	National Institute for Environmental Studies		50	
+NMID	National Museum of Ireland, Dublin	6167	National Museum of Ireland		45	
+NMK	National Museum of Kenya, Nairobi, Kenya	6084	National Museum of Kenya, Nairobi		18	
+NMNS	National Museum of Nature and Science, Tokyo, Japan				1	maybe 7165?
+NMP	Narodni Muzeum v Praze, Prague, Czechoslovakia	6851	National Museum (Prague)		84	
+NMVM	National Museum of Victoria, Melbourne, Victoria, Australia	7168	Museum of Victoria, Melbourne, Victoria, Australia		65	
+NMZB	National Museum of Zimbabwe (Rhodesia), Bulawayo, Zimbabwe	5199	National Museum of Zimbabwe		1	
+NRCB	National Reference Centre for Biological Control, Colima, Mexico				1	
+NSMT	National Science Museum, Tokyo, Japan	6314			1	
+NTUT	Department of Entomology, National Taiwan University, Taipei, Taiwan				10	
+NVCO	Navone Collection, Museo Regionale Scienze Naturali, Torino, Italy				3	
+NWAU	Entomology Museum, Northwestern Agricultural University, Yangling, Shaanxi, China	5213	North-West Agricultural University		2	
+NWCF	Northwestern College of Forestry, Yangling 712100, Shaanxi, China				118	
+OILB	Cententro d'Identificazione degli Entomofagi, Organizzazione Internazionel di Lotta Biologica, ?Switzerland				1	
+ORST	Muséum National d'Histoire Naturelle, Paris, France	6312	Office de la Recherche Scientifique et Technique d'Outre-Mer		4	
+OSOU	Oregon State University , Corvallis, Oregon, USA	7191	Oregon State University, Corvallis, Oregon		3	
+OSUC	OSU Insect Collection, Ohio State University, Columbus, Ohio, USA	7785	C.A. Triplehorn Insect Collection, Ohio State University		2	
+OSUW	Ohio State University, Wooster, Ohio, USA				1	
+PCAB	Priyadarsanan Collection, Ashoka Trust for Research in Ecology and the Environment (ATREE), Hebbal, Bangalore 560 024, India				8	
+PDBC	Project Directorate of Biological Control, Post Bag No 2491, H.A. Farm Post, Bellary Road, Hebbal, Bangalore - 560024, Karnataka, India				16	
+PECO	Pelov Collection, Bulgaria				1	
+PIMR	Paedagological Institute, Moscow, Russia				3	
+PNUT	Paolo Navone Collection, Entomologia e Zoologia applicate all'Ambiente, University of Torino, via L. da Vinci 44, 10095 Grugliasco (TO), Italy				1	
+PPGE	Plant Protection Research Institute, Dokki, Giza 12618, Egypt				9	
+PPIK	Plant Protection Institute, Kostinbrod, Bulgaria				2	
+PPRI	Plant Protection Research Institute, Pretoria, South Africa	7086	National Collection of Insects, Plant Protection Research Institute, Pretoria 0121, South Africa		292	
+PSCI	PSCIR Labs., Pest Division, Karachi, Pakistan				1	
+QACO	Q. Argaman Collection, Israel				9	
+QCAZ	Pontificia Universidad Catolica del Ecuador, Quito, Ecuador	147	Museo de Zoologia, Pontificia Universidad Catolica del Ecuador		1	
+QMB	Queensland Museum, Brisbane, Australia	5961	Queensland Museum, Brisbane		2707	
+QSBG	Queen Sirikit Botanic Garden, Chiang Mai, Thailand	7055	Queen Sirikit Botanical Garden, Mae Rim, Chiang Mai, Thailand		6	
+QVMT	Queen Victoria Museum & Art Gallery, Launceston, Tasmania 7250, Australia				1	
+RASM	Palaeontological Institute, Russian Academy of Sciences, Moscow 117647, Russia				17	
+SNME	National Museums of Scotland, Edinburgh, Scotland	181	National Museum of Scotland - Natural Sciences		15	
+RNHL	Rijksmuseum Natuurlijke, Leiden, Netherlands	7197	Nationaal Natuurhistorisch Museum (formerly Rijksmuseum van Natuurlijke Historie), Leiden, the Netherlands		262	
+RNSS	Royal Norwegian Society of Science and Letters Museum, Trondheim, Norway				4	
+ROMT	Royal Ontario Museum, Toronto, Canada				9	
+RPSP	Universidade de Sao Paulo, FFCLRP - USP; 14040-901, Bairro Monte Alegre, Ribeirao Preto, Sao Paulo, Brazil	4615	Universidade de Sao Paulo		1	
+RRAC	R.R. Askew Collection, England				3	
+RUKI	Plant Protection Department, College of Agriculture, Razi University, Kermanshah, Iran				1	
+SAMA	South Australian Museum, Adelaide, South Australia	240	South Australian Museum, Adelaide, SA, Australia		240	
+SAMC	South African Museum, Cape Town, South Africa	103	Iziko Museums of Cape Town		74	
+SAUL	Insect Collection, Shenyang Agricultural University, Shenyang, Liaoning 110161, China				14	
+SCAC	South China Agricultural College, China	5269	South China Agricultural College		4	
+SCAU	Laboratory of Insect Ecology, South China Agricultural University, Guangzhou 510642, China	7943	Department of Entomology, South China Agricultural University		3	
+SCCO	S. Compton Collection, England				3	
+SEML	Snow Entomological Museum, Lawrence, Kansas, USA				2	
+SFAS	Insect Museum, General Station of Forest Pest Management, State Forestry Administration, Shenyang 110034, China				1	
+SFTD	WB Biologie, Sektion Forstwirtschaft, Thanrandt, Dresden, Germany				1	
+SIBS	Institute of Plant Physiology and Ecology, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200032, China	2461	Institute of Biology of the Southern Seas (IBSS)		3	
+SIPP	Shaanxi Institute of Plant Protection, Shaanxi, P.R. China				2	
+SJCA	St John's College, Agra, India	5313	St. John's College		59	
+SMNS	Staatliches Museum für Naturkunde, Stuttgart, Germany	4919	Staatliches Museum für Naturkunde Stuttgart, Germany		9	
+SMTD	Staatliches Museum für Tierkunde, Dresen, Germany	7519	Senckenberg Museum für Tierkunde, Dresden, Germany		1	
+SMUF	Forschungsintitut und Naturmuseum Senckenberg, Frankfurt am Main, Germany				6	
+SNMB	Slovak National Museum, Bratisalva, Slovakia	5617	Staatliches Naturhistorisches Museum		1	
+SNRI	Sichuan Natural Resources Institute, Chengdu, Sichuan, China				3	
+SPSU	Entomological Museum, School of Agronomic Sciences - Sao Paulo State University (UNESP), Campus Botucatu, 18610-307 Botucatu, Sao Paulo, Brazil				1	
+SUCO	S.N. Sushil Collection, G.B. Pant University of Agriculture & Technology, Pantnagar 263 145, India	2601	State University of New York, College at Oneonta		2	
+SUCS	Sichuan University, Chengdhu, Sichuan, China				2	
+TAMU	Department of Entomology, Texas A&M University, College Station, Texas, USA	2668	Texas A&M University		98	
+TARI	Insect Museum, Taiwan Agricultural Research Institute, Taichung, Taiwan	5866	Taiwan Agricultural Research Institute		57	
+TAUI	Tel Aviv University Insect Collection, The Steinhardt Museum of Natural History,  Tel-Aviv University, Israel	5907	el-Aviv University		11	
+TFRI	Insect Museum, Tropical Forest Research Institute, Jabalpur, Madhya Pradesh 482 021, India			1	4	
+TLMF	Tiroler Landesmuseum Ferdinandeum, Innsbruck, Naturwissenschaftliche Sammlungen, Feldsrasse 11a, A-6020 Innsbruck, Austria	5776	Tiroler Landesmuseum Ferdinandeum		1	
+TMPC	Royal Tyrrell Museum of Palaeontology, Drumheller, Alberta, Canada	7664	Ted MacRae Personal Collection		3	
+TMUP	Ditsong National Museum of Natural History (=Transvaal Museum), Pretoria, South Africa				4	
+TRCO	Traboulsi Collection, ?Lebanon				1	
+UACV	Universidad Austral de Chile, Vladivia, Chile				1	
+UAFY	Forestry Academy of Northwestern Sci Tech. University of Agriculture and Forestry, Yangling, Shaanxi 712100, China				12	?
+UASB	University of Agricultural Sciences, Benglaru 560 065, Karnataka, India	5261	University of Agricultural Sciences, Bengaluru, India		1	
+UATM	Museo de Insectos, Universidad Autónoma de Tamaulipas, Cd. Victoria, Tamaulipas 87149, México				1	
+UCCS	University of Ceylon, Columbo, Sri Lanka				6	
+UCD	Bohart Museum of Entomology, University of California, Davis, California, USA	5408	University of California, Davis		82	
+UCFC	University of Florida Collection of Arthropods, Orlando, Florida, USA	5435	University of Central Florida Collection of Arthropods		1	
+UCMP	University of California Museum of Palaeontology, Berkeley, California	4181	University of California Museum of Paleontology		2	
+UCVM	Museo de Zoologia, Facultad de Agronomia, Universidad Central de Venezuela, Maracay, Venezuela				4	
+UCR	University of California, Riverside, California, USA	6992	University of California, Riverside		269	
+UDAD	University of Delaware Agricultural Experiment Station, Newark, Delaware, USA				1	
+UDSN	Universita Degli Studi di Napoli, Napoli, Italy				2	
+UFES	Universidade Federal do Espírito Santo, Av. Marechal Campos 1468, Maruípe, 29040-090 Vitória, Espirito Santo, Brazil	3962	Universidade Federal do Espirito Santo		9	
+UFPB	Departimento da Zoologia, Universidade Federal do Paraná, Caixa Postal 19020, 81531-980 Curutuba, Paraná, Brazil			1	4	2 matches, but not exact
+UFPC	Coleçao de Entomologia Pe. Jesus Santiago Moure, Universidade Federal do Paraná, Curitiba, Brazil				4	
+UGA	University of Georgia, Athens, Georgia, USA				2	
+UKNH	Natural History Museum, University of Kansas, Lawrence, Kansas, USA				1	
+ULLT	University LaLaguna, Tenerife, Canary Islands				1	
+UMSP	University of Minnesota, St Paul, Minnesota, USA	293	University of Minnesota Insect Collection		2	
+UMK	University Museum, Konigsberg, Germany				1	
+UNAB	Museo Entomológico UNAB, Universidad Nacional de Colombia, Facultad de Ciencias Agrarias. Cra 30, 45-03. Bogotá, Colombia	6152	Museo Entomológico de la Facultad de Agronomía of the Universidad Nacional de Colombia, Bogotá D.C, Colombia		1	
+UNBN	University of Bergen, Norway	3506	University of Bergen		2	
+UNCA	Istituto di Agricultura y Entomologia, University of Catania, Italy				1	
+UNAM	Instituto de Biologia, Universidad Nacional Autonoma de Mexico, District Federal, Mexico	4175	Universidad Nacional Autonoma de Mexico		7	
+UPLB	University of Philippines, Los Baños, Philippines				1	
+URGV	Colección Entomológia, Universidad Nacional Experimental Rómulo Gallegos, San Juan de los Morros, estado Guárico, Venezuela				4	
+USNM	United States Museum of Natural History, Washington D.C., USA	180	National Museum of Natural History, Smithsonian Institution		4014	
+UTSU	Utah State University, Uyah, USA	2946	Utah State University Uintah Basin		1	
+UYYC	Laboratory of Zoology, Higher Teacher's Training College, University of Yaounde I, P.O. Box 47, Yaounde, Cameroon				1	
+UZIU	Museum of Evolution, Uppsala University, Uppsala, Sweden	5993	Uppsala University		1	
+VRCP	Virus Research Centre, Poona, India				1	
+WAMP	Western Australian Museum, Perth, Western Australia, Australia				4	
+WAUE	Department of Entomology, Agriculutural University, Wageningen, Netherlands				1	
+XTBG	Xishuangbanna Tropical Botanical Garden, The Chinese Academy of Sciences, Kunming, Yunnan, China	7612	Xishuangbanna Tropical Botanical garden		4	
+ZACH	Zhejiang Agricultural Cardre College, Huangzhou, China				1	
+ZAFU	Department of Plant Protection, School of Agriculture and Food Science, Zhejiang Agriculture & Forestry University, Huangzhou, Zhejiang 311 300, China				1	
+ZAMU	Zoological Museum, Aligarh Muslim University, Uttar Pradesh, India	5193	Aligarh Muslim University		480	
+ZAUC	Institute of Applied Entomology, Zhejiang University, Hangzhou 310029, Zhejiang 310029, China	5387	Zhejian Agricultural University		117	
+ZDTU	Zoology Department, Tel Aviv University, Israel				6	
+ZFBK	Ziraat Fakültesi Bitki Koruma Bölümünde, Ankara Universitesi, Turkey				3	
+ZFMK	Zoologisches Forschungsinstitut und Museum, Bonn, Germany	319	Zoologisches Forschungsmuseum Alexander Koenig		3	
+ZIAT	Zoological Institute, Ashkhabad, Turkmenia				6	
+ZIEA	Zoological Institute, Erevan, Armenia				2	
+ZIHG	Zoological Institute, Hamburg, Germany				1	
+ZIKU	Schmalhausen Institute of Zoology of Ukrainian Academy of Sciences, Kiev, Ukraine	5160	Zoological Institute, Kochi University		304	
+ZIOU	Zoological Institute, Oolu Universtity, Finland				1	
+ZIRM	Zoological Institute, Acadademy of Sciences, Chisinau, Republic of Moldova				7	
+ZISP	Zoological Institute, St Petersburg, Russia	4268	Zoological Institute, Russian Academy of Sciences		1110	
+ZMCU	Zoological Museum, Cambridge University, England				2	
+ZMHH	Zoologisches Museum Hamburg, Hamburg, Germany	7213	Zoologisches Museum für Hamburg, Hamburg, Germany		1	
+ZMHU	Zoological Museum, Humboldt University, Berlin	4034	Zoologisches Museum der Humboldt Universitaet		132	
+ZMMU	Zoological Museum, Moscow University, Moscow, Russia	316	Zoological Museum, Moscow Lomonosov State University		27	
+ZMUC	Zoologiske Museum, Copenhagen, Denmark	4731	Zoological Museum, University of Copenhagen, Denmark		95	
+ZMUH	Zoological Museum, University of Helsinki, Finland	7847	Zoological Museum, Finnish Museum of Natural History, University of Helsinki, Helsinki, Finland		11	
+ZMUK	Zoological Museum University of Karachi, Karachi, Pakistan				12	
+ZSIC	Zoological Survey of India, Calcutta, India	7239	Geological Survey of India, Calcutta		230	
+ZSIJ	Desert Regional Station, Zoological Survey of India, Jodhpur, Rajasthan 342005, India				1	
+ZSIK	Zoological Survey of India, Western Ghats Field Research Station, Calicut 673002, Kerala, India	7058	National Zoological Collections of Zoological Survey of India Western Ghat Regional Centre, Kozhikode		368	
+ZSIO	Zoological Survey of India, Estuarine Biological Station, Godalpur-on-Sea, Orissa 761002, India				1	
+ZSIR	Zoological Survey of India, Gangetic Plains Regional Station, Rajendra Nagar, Patna, Bihar 800016, India				3	
+ZSIP	Western Regional Station, Zoological Survey of India, Pune, Maharashtra 411 044, India				2	
+ZSMM	Zoologische Staatssammlung München, Munich, Germany	7195	Zoologische Staatssammlung des Bayerischen Staates, München, Germany		48	
