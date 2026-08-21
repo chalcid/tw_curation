@@ -125,9 +125,10 @@ namespace :taxonworks do
             next
           end
 
-          protonym = Protonym.where(project_id: PROJECT_ID, id: taxon_name_id).first
+          protonym = Protonym.where(project_id: PROJECT_ID, id: taxon_name_id).where.missing(:type_materials).first
+          
           if protonym.nil?
-            skipped.push [taxon_name_id, 'not a Protonym in this project']
+            skipped.push [taxon_name_id, 'not a Protonym in this project OR TypeMaterial already exists']
             next
           end
 
